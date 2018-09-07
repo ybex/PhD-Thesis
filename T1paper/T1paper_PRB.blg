@@ -1,0 +1,29 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: T1paper_PRB.aux
+Illegal, another \bibdata command---line 66 of file T1paper_PRB.aux
+ : \bibdata
+ :         {T1paper_PRBNotes}
+I'm skipping whatever remains of this command
+The style file: apsrev4-1.bst
+Database file #1: T1paper_PRBNotes.bib
+Database file #2: T1_bib.bib
+Repeated entry---line 164 of file T1_bib.bib
+ : @control{REVTEX41Control
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 167 of file T1_bib.bib
+ : @control{apsrev41Control
+ :                         ,
+I'm skipping whatever remains of this entry
+control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing journal in Premakumar2017
+(There were 3 error messages)

@@ -1,0 +1,255 @@
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{14}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Muhonen}\ \emph {et~al.}(2014)\citenamefont
+  {Muhonen}, \citenamefont {Dehollain}, \citenamefont {Laucht}, \citenamefont
+  {Hudson}, \citenamefont {Kalra}, \citenamefont {Sekiguchi}, \citenamefont
+  {Itoh}, \citenamefont {Jamieson}, \citenamefont {McCallum}, \citenamefont
+  {Dzurak},\ and\ \citenamefont {Morello}}]{Muhonen2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~T.}\ \bibnamefont
+  {Muhonen}}, \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
+  {Dehollain}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Laucht}},
+  \bibinfo {author} {\bibfnamefont {F.~E.}\ \bibnamefont {Hudson}}, \bibinfo
+  {author} {\bibfnamefont {R.}~\bibnamefont {Kalra}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Sekiguchi}}, \bibinfo {author}
+  {\bibfnamefont {K.~M.}\ \bibnamefont {Itoh}}, \bibinfo {author}
+  {\bibfnamefont {D.~N.}\ \bibnamefont {Jamieson}}, \bibinfo {author}
+  {\bibfnamefont {J.~C.}\ \bibnamefont {McCallum}}, \bibinfo {author}
+  {\bibfnamefont {A.~S.}\ \bibnamefont {Dzurak}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Morello}},\ }\href {\doibase
+  10.1038/nnano.2014.211} {\bibfield  {journal} {\bibinfo  {journal} {Nature
+  Nanotechnology}\ }\textbf {\bibinfo {volume} {9}},\ \bibinfo {pages} {986}
+  (\bibinfo {year} {2014})},\ \Eprint {http://arxiv.org/abs/1402.7140}
+  {arXiv:1402.7140} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Muhonen}\ \emph {et~al.}(2015)\citenamefont
+  {Muhonen}, \citenamefont {Laucht}, \citenamefont {Simmons}, \citenamefont
+  {Dehollain}, \citenamefont {Kalra}, \citenamefont {Hudson}, \citenamefont
+  {Freer}, \citenamefont {Itoh}, \citenamefont {Jamieson}, \citenamefont
+  {McCallum}, \citenamefont {Dzurak},\ and\ \citenamefont
+  {Morello}}]{Muhonen2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~T.}\ \bibnamefont
+  {Muhonen}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Laucht}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Simmons}}, \bibinfo
+  {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Dehollain}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Kalra}}, \bibinfo {author} {\bibfnamefont
+  {F.~E.}\ \bibnamefont {Hudson}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Freer}}, \bibinfo {author} {\bibfnamefont {K.~M.}\
+  \bibnamefont {Itoh}}, \bibinfo {author} {\bibfnamefont {D.~N.}\ \bibnamefont
+  {Jamieson}}, \bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont
+  {McCallum}}, \bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Dzurak}}, \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Morello}},\ }\href {\doibase 10.1088/0953-8984/27/15/154205} {\bibfield
+  {journal} {\bibinfo  {journal} {Journal of Physics Condensed Matter}\
+  }\textbf {\bibinfo {volume} {27}},\ \bibinfo {pages} {154205} (\bibinfo
+  {year} {2015})},\ \Eprint {http://arxiv.org/abs/1410.2338} {arXiv:1410.2338}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kalra}(2018)}]{Kalra2016}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Kalra}},\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {non published}\ }\textbf
+  {\bibinfo {volume} {187}} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hasegawa}(1960)}]{Hasegawa1960}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Hasegawa}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review}\
+  }\textbf {\bibinfo {volume} {187}} (\bibinfo {year} {1960})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {{Laura M. Roth}}(1960)}]{Roth1960}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Laura M. Roth}}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review}\
+  } (\bibinfo {year} {1960})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wilson}\ \emph {et~al.}(1961)\citenamefont {Wilson},
+  \citenamefont {K.}, \citenamefont {Feher},\ and\ \citenamefont
+  {G.}}]{Wilson1961}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Wilson}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {K.}}, \bibinfo {author}
+  {\bibnamefont {Feher}}, \ and\ \bibinfo {author} {\bibnamefont {G.}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review}\
+  }\textbf {\bibinfo {volume} {124}},\ \bibinfo {pages} {1068} (\bibinfo {year}
+  {1961})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Morello}\ \emph {et~al.}(2010)\citenamefont
+  {Morello}, \citenamefont {Pla}, \citenamefont {Zwanenburg}, \citenamefont
+  {Chan}, \citenamefont {Tan}, \citenamefont {Huebl}, \citenamefont
+  {M{\"{o}}tt{\"{o}}nen}, \citenamefont {Nugroho}, \citenamefont {Yang},
+  \citenamefont {van Donkelaar}, \citenamefont {Alves}, \citenamefont
+  {Jamieson}, \citenamefont {Escott}, \citenamefont {Hollenberg}, \citenamefont
+  {Clark},\ and\ \citenamefont {Dzurak}}]{Morello2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Morello}}, \bibinfo {author} {\bibfnamefont {J.~J.}\ \bibnamefont {Pla}},
+  \bibinfo {author} {\bibfnamefont {F.~A.}\ \bibnamefont {Zwanenburg}},
+  \bibinfo {author} {\bibfnamefont {K.~W.}\ \bibnamefont {Chan}}, \bibinfo
+  {author} {\bibfnamefont {K.~Y.}\ \bibnamefont {Tan}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Huebl}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {M{\"{o}}tt{\"{o}}nen}}, \bibinfo {author} {\bibfnamefont
+  {C.~D.}\ \bibnamefont {Nugroho}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Yang}}, \bibinfo {author} {\bibfnamefont {J.~A.}\
+  \bibnamefont {van Donkelaar}}, \bibinfo {author} {\bibfnamefont {A.~D.~C.}\
+  \bibnamefont {Alves}}, \bibinfo {author} {\bibfnamefont {D.~N.}\ \bibnamefont
+  {Jamieson}}, \bibinfo {author} {\bibfnamefont {C.~C.}\ \bibnamefont
+  {Escott}}, \bibinfo {author} {\bibfnamefont {L.~C.~L.}\ \bibnamefont
+  {Hollenberg}}, \bibinfo {author} {\bibfnamefont {R.~G.}\ \bibnamefont
+  {Clark}}, \ and\ \bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Dzurak}},\ }\href {\doibase 10.1038/nature09392} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {467}},\ \bibinfo
+  {pages} {687} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zwanenburg}\ \emph {et~al.}(2013)\citenamefont
+  {Zwanenburg}, \citenamefont {Dzurak}, \citenamefont {Morello}, \citenamefont
+  {Simmons}, \citenamefont {Hollenberg}, \citenamefont {Klimeck}, \citenamefont
+  {Rogge}, \citenamefont {Coppersmith},\ and\ \citenamefont
+  {Eriksson}}]{Zwanenburg2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~A.}\ \bibnamefont
+  {Zwanenburg}}, \bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Dzurak}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Morello}},
+  \bibinfo {author} {\bibfnamefont {M.~Y.}\ \bibnamefont {Simmons}}, \bibinfo
+  {author} {\bibfnamefont {L.~C.}\ \bibnamefont {Hollenberg}}, \bibinfo
+  {author} {\bibfnamefont {G.}~\bibnamefont {Klimeck}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Rogge}}, \bibinfo {author} {\bibfnamefont
+  {S.~N.}\ \bibnamefont {Coppersmith}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.~A.}\ \bibnamefont {Eriksson}},\ }\href {\doibase
+  10.1103/RevModPhys.85.961} {\bibfield  {journal} {\bibinfo  {journal}
+  {Reviews of Modern Physics}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo
+  {pages} {961} (\bibinfo {year} {2013})},\ \Eprint
+  {http://arxiv.org/abs/arXiv:1206.5202v1} {arXiv:arXiv:1206.5202v1}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Watson}\ \emph {et~al.}(2015)\citenamefont {Watson},
+  \citenamefont {Weber}, \citenamefont {House}, \citenamefont {B{\"{u}}ch},\
+  and\ \citenamefont {Simmons}}]{Watson2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~F.}\ \bibnamefont
+  {Watson}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Weber}},
+  \bibinfo {author} {\bibfnamefont {M.~G.}\ \bibnamefont {House}}, \bibinfo
+  {author} {\bibfnamefont {H.}~\bibnamefont {B{\"{u}}ch}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.~Y.}\ \bibnamefont {Simmons}},\ }\href {\doibase
+  10.1103/PhysRevLett.115.166806} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {115}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Johnson}(2018)}]{Johnson2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Johnson}},\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {ArXiv}\ }\textbf {\bibinfo
+  {volume} {187}} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Premakumar}\ \emph {et~al.}(2017)\citenamefont
+  {Premakumar}, \citenamefont {Vavilov},\ and\ \citenamefont
+  {Joynt}}]{Premakumar2017}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.~N.}\ \bibnamefont
+  {Premakumar}}, \bibinfo {author} {\bibfnamefont {M.~G.}\ \bibnamefont
+  {Vavilov}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Joynt}},\ }\href {\doibase 10.1088/2058-9565/aa8e15} {\  (\bibinfo {year}
+  {2017}),\ 10.1088/2058-9565/aa8e15},\ \Eprint
+  {http://arxiv.org/abs/1705.01165} {arXiv:1705.01165} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Laucht}\ \emph {et~al.}(2015)\citenamefont {Laucht},
+  \citenamefont {Muhonen}, \citenamefont {Mohiyaddin}, \citenamefont {Kalra},
+  \citenamefont {Dehollain}, \citenamefont {Freer}, \citenamefont {Hudson},
+  \citenamefont {Veldhorst}, \citenamefont {Rahman}, \citenamefont {Klimeck},
+  \citenamefont {Itoh}, \citenamefont {Jamieson}, \citenamefont {McCallum},
+  \citenamefont {Dzurak},\ and\ \citenamefont {Morello}}]{Laucht2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Laucht}}, \bibinfo {author} {\bibfnamefont {J.~T.}\ \bibnamefont {Muhonen}},
+  \bibinfo {author} {\bibfnamefont {F.~A.}\ \bibnamefont {Mohiyaddin}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Kalra}}, \bibinfo
+  {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Dehollain}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Freer}}, \bibinfo {author} {\bibfnamefont
+  {F.~E.}\ \bibnamefont {Hudson}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Veldhorst}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Rahman}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Klimeck}}, \bibinfo {author} {\bibfnamefont {K.~M.}\
+  \bibnamefont {Itoh}}, \bibinfo {author} {\bibfnamefont {D.~N.}\ \bibnamefont
+  {Jamieson}}, \bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont
+  {McCallum}}, \bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Dzurak}}, \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Morello}},\ }\href {\doibase 10.1126/sciadv.1500022} {\bibfield  {journal}
+  {\bibinfo  {journal} {Science Advances}\ }\textbf {\bibinfo {volume} {1}},\
+  \bibinfo {pages} {e1500022} (\bibinfo {year} {2015})},\ \Eprint
+  {http://arxiv.org/abs/1503.05985} {arXiv:1503.05985} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {MacLean}\ \emph {et~al.}(2007)\citenamefont
+  {MacLean}, \citenamefont {Amasha}, \citenamefont {Radu}, \citenamefont
+  {Zumb{\"{u}}hl}, \citenamefont {Kastner}, \citenamefont {Hanson},\ and\
+  \citenamefont {Gossard}}]{MacLean2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {MacLean}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Amasha}},
+  \bibinfo {author} {\bibfnamefont {I.~P.}\ \bibnamefont {Radu}}, \bibinfo
+  {author} {\bibfnamefont {D.~M.}\ \bibnamefont {Zumb{\"{u}}hl}}, \bibinfo
+  {author} {\bibfnamefont {M.~A.}\ \bibnamefont {Kastner}}, \bibinfo {author}
+  {\bibfnamefont {M.~P.}\ \bibnamefont {Hanson}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.~C.}\ \bibnamefont {Gossard}},\ }\href {\doibase
+  10.1103/PhysRevLett.98.036802} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {98}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2007})},\ \Eprint
+  {http://arxiv.org/abs/0610679} {arXiv:0610679 [cond-mat]} \BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Amasha}\ \emph {et~al.}(2008)\citenamefont {Amasha},
+  \citenamefont {MacLean}, \citenamefont {Radu}, \citenamefont {Zumb{\"{u}}hl},
+  \citenamefont {Kastner}, \citenamefont {Hanson},\ and\ \citenamefont
+  {Gossard}}]{Amasha2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Amasha}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {MacLean}},
+  \bibinfo {author} {\bibfnamefont {I.~P.}\ \bibnamefont {Radu}}, \bibinfo
+  {author} {\bibfnamefont {D.~M.}\ \bibnamefont {Zumb{\"{u}}hl}}, \bibinfo
+  {author} {\bibfnamefont {M.~A.}\ \bibnamefont {Kastner}}, \bibinfo {author}
+  {\bibfnamefont {M.~P.}\ \bibnamefont {Hanson}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.~C.}\ \bibnamefont {Gossard}},\ }\href {\doibase
+  10.1103/PhysRevB.78.041306} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review B - Condensed Matter and Materials Physics}\ }\textbf
+  {\bibinfo {volume} {78}},\ \bibinfo {pages} {1} (\bibinfo {year} {2008})},\
+  \Eprint {http://arxiv.org/abs/0709.1730} {arXiv:0709.1730} \BibitemShut
+  {NoStop}%
+\end{thebibliography}%
