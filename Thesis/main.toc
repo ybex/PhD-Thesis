@@ -16,37 +16,45 @@
 \contentsline {chapter}{\numberline {2}The flip flop qubit}{9}{chapter.35}
 \contentsline {section}{\numberline {2.1}A new electrically accessible qubit}{10}{section.36}
 \contentsline {subsection}{\numberline {2.1.1}Manipulating the orbital degree of freedom: the charge qubit}{10}{subsection.39}
-\contentsline {paragraph}{Modulating the hyperfine interaction}{12}{figure.caption.47}
-\contentsline {paragraph}{The flip-flop qubit}{15}{section*.62}
-\contentsline {section}{\numberline {2.2}Electrical noise and relaxation}{16}{section.71}
-\contentsline {paragraph}{Dephasing due to electrical noise}{16}{section*.72}
-\contentsline {paragraph}{Relaxation}{18}{section*.76}
-\contentsline {paragraph}{Tunnel coupling tuning}{19}{section*.80}
-\contentsline {paragraph}{Adiabatic phase control}{20}{section*.82}
-\contentsline {section}{\numberline {2.3}Electric drive}{23}{section.92}
-\contentsline {section}{\numberline {2.4}Two-qubit coupling}{27}{section.104}
-\contentsline {paragraph}{Dipole Screening}{28}{section*.109}
-\contentsline {paragraph}{Two-qubit coupling}{31}{section*.115}
-\contentsline {paragraph}{Two-qubit gates}{32}{section*.122}
-\contentsline {section}{\numberline {2.5}Scaling up using circuit quantum electrodynamics}{33}{section.124}
-\contentsline {chapter}{\numberline {3}The nuclear spin qubit with an electric dipole transition}{37}{chapter.127}
-\contentsline {section}{\numberline {3.1}Introduction}{38}{section.128}
-\contentsline {section}{\numberline {3.2}Second-order Raman drive of a $^{31}$P nuclear spin}{38}{section.129}
-\contentsline {section}{\numberline {3.3}Robust electric dipole transition of a Si:P nuclear spin}{40}{section.137}
-\contentsline {subsection}{\numberline {3.3.1}Electron, nuclear and charge hybridization}{40}{subsection.138}
-\contentsline {subsection}{\numberline {3.3.2}Resilience against charge noise}{44}{subsection.165}
-\contentsline {subsection}{\numberline {3.3.3}Coupling to microwave cavity photons}{45}{subsection.166}
-\contentsline {subsection}{\numberline {3.3.4}Nuclear spin relaxation}{45}{subsection.167}
-\contentsline {subsection}{\numberline {3.3.5}Dependence of electric dipole strength and spin relaxation rate on frequency and field detuning}{45}{subsection.170}
-\contentsline {section}{\numberline {3.4}Long-distance coupling of nuclear spin qubits}{46}{section.171}
-\contentsline {section}{\numberline {3.5}Conclusion}{48}{section.174}
-\contentsline {chapter}{\numberline {4}Building a quantum processor}{49}{chapter.175}
-\contentsline {chapter}{\numberline {5}Device fabrication and experimental methods}{51}{chapter.177}
-\contentsline {section}{\numberline {5.1}Device fabrication and packaging}{52}{section.178}
-\contentsline {section}{\numberline {5.2}Experimental setup}{52}{section.179}
-\contentsline {chapter}{\numberline {6}Low magnetic field effects in Si:P qubits}{53}{chapter.180}
-\contentsline {section}{\numberline {6.1}Co-tunneling}{54}{section.181}
-\contentsline {section}{\numberline {6.2}Evanescence-wave Johnson noise}{54}{section.182}
-\contentsline {chapter}{\numberline {7}Flip flop measurements}{55}{chapter.183}
-\contentsline {chapter}{\numberline {8}Conclusion}{57}{chapter.184}
-\contentsline {chapter}{Bibliography}{59}{chapter*.185}
+\contentsline {subsection}{\numberline {2.1.2}Modulating the hyperfine interaction}{13}{subsection.46}
+\contentsline {subsection}{\numberline {2.1.3}The flip-flop qubit}{15}{subsection.62}
+\contentsline {section}{\numberline {2.2}Electrical noise and relaxation}{17}{section.71}
+\contentsline {subsection}{\numberline {2.2.1}Dephasing due to electrical noise}{17}{subsection.72}
+\contentsline {paragraph}{Si/SiO2 noise characteristics}{18}{section*.74}
+\contentsline {paragraph}{Dephasing}{19}{figure.caption.76}
+\contentsline {subsection}{\numberline {2.2.2}Relaxation}{19}{subsection.78}
+\contentsline {subsection}{\numberline {2.2.3}Tunnel coupling tuning}{20}{subsection.82}
+\contentsline {subsection}{\numberline {2.2.4}Adiabatic phase control}{20}{subsection.84}
+\contentsline {section}{\numberline {2.3}Electric drive}{22}{section.94}
+\contentsline {subsection}{\numberline {2.3.1}Gate noise}{26}{subsection.105}
+\contentsline {section}{\numberline {2.4}Dipole-dipole coupling}{28}{section.107}
+\contentsline {subsection}{\numberline {2.4.1}Dipole Screening}{29}{subsection.112}
+\contentsline {subsection}{\numberline {2.4.2}Two-qubit coupling}{31}{subsection.118}
+\contentsline {subsection}{\numberline {2.4.3}Two-qubit gates}{32}{subsection.125}
+\contentsline {section}{\numberline {2.5}Scaling up using circuit quantum electrodynamics}{34}{section.127}
+\contentsline {section}{\numberline {2.6}Conclusion}{35}{section.129}
+\contentsline {chapter}{\numberline {3}The nuclear spin qubit with an electric dipole transition}{37}{chapter.131}
+\contentsline {section}{\numberline {3.1}Introduction}{38}{section.132}
+\contentsline {section}{\numberline {3.2}Second-order Raman drive of a $^{31}$P nuclear spin}{38}{section.133}
+\contentsline {section}{\numberline {3.3}Robust electric dipole transition of a Si:P nuclear spin}{40}{section.141}
+\contentsline {subsection}{\numberline {3.3.1}Electron, nuclear and charge hybridization}{40}{subsection.142}
+\contentsline {subsection}{\numberline {3.3.2}Resilience against charge noise}{44}{subsection.168}
+\contentsline {subsection}{\numberline {3.3.3}Coupling to microwave cavity photons}{45}{subsection.169}
+\contentsline {subsection}{\numberline {3.3.4}Nuclear spin relaxation}{45}{subsection.170}
+\contentsline {subsection}{\numberline {3.3.5}Dependence of electric dipole strength and spin relaxation rate on frequency and field detuning}{45}{subsection.172}
+\contentsline {section}{\numberline {3.4}Long-distance coupling of nuclear spin qubits}{46}{section.174}
+\contentsline {section}{\numberline {3.5}Conclusion}{48}{section.177}
+\contentsline {chapter}{\numberline {4}Building a quantum processor}{49}{chapter.178}
+\contentsline {section}{\numberline {4.1}Quantum processor architectures}{50}{section.179}
+\contentsline {section}{\numberline {4.2}Operation principles of an electrically controlled donor quantum processor}{52}{section.183}
+\contentsline {section}{\numberline {4.3}Nuclear qubit based processor}{52}{section.184}
+\contentsline {chapter}{\numberline {5}Device fabrication and experimental methods}{53}{chapter.185}
+\contentsline {section}{\numberline {5.1}Device design}{54}{section.186}
+\contentsline {section}{\numberline {5.2}Device fabrication and packaging}{54}{section.187}
+\contentsline {section}{\numberline {5.3}Experimental setup}{54}{section.188}
+\contentsline {chapter}{\numberline {6}Low magnetic field effects in Si:P qubits}{55}{chapter.189}
+\contentsline {section}{\numberline {6.1}Co-tunneling}{56}{section.190}
+\contentsline {section}{\numberline {6.2}Evanescence-wave Johnson noise}{56}{section.191}
+\contentsline {chapter}{\numberline {7}Flip flop measurements}{57}{chapter.192}
+\contentsline {chapter}{\numberline {8}Conclusion}{59}{chapter.193}
+\contentsline {chapter}{Bibliography}{61}{chapter*.194}

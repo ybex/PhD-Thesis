@@ -936,6 +936,528 @@
     \field{year}{2004}
   \endentry
 
+  \entry{Johnson2010}{article}{}
+    \name{author}{4}{}{%
+      {{hash=JBC}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={B\bibnamedelima C},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={J\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BLHWV}{%
+         family={Beveren},
+         familyi={B\bibinitperiod},
+         given={L\bibnamedelima H Willems\bibnamedelima Van},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod
+  W\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Gauja},
+         familyi={G\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier B.V.}%
+    }
+    \strng{namehash}{JBCMJCBLHWV+1}
+    \strng{fullhash}{JBCMJCBLHWVGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.tsf.2009.09.152
+    \endverb
+    \field{issn}{0040-6090}
+    \field{number}{9}
+    \field{pages}{2524\bibrangedash 2527}
+    \field{title}{{Deep level transient spectroscopy study for the development
+  of ion-implanted silicon fi eld-effect transistors for spin-dependent
+  transport}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.tsf.2009.09.152
+    \endverb
+    \field{volume}{518}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Johnson2010.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Thin Solid Films}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Paladino2014}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PE}{%
+         family={Paladino},
+         familyi={P\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+    }
+    \strng{namehash}{PE1}
+    \strng{fullhash}{PE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.86.361
+    \endverb
+    \field{number}{June}
+    \field{title}{{1 = f noise : Implications for solid-state quantum
+  information}}
+    \field{volume}{86}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Paladino2014.
+    \verb pdf:pdf
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{Kim2015}{article}{}
+    \name{author}{11}{}{%
+      {{hash=KD}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Dohun},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WDR}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={D\bibnamedelima R},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SCB}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={C\bibnamedelima B},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GJK}{%
+         family={Gamble},
+         familyi={G\bibinitperiod},
+         given={John\bibnamedelima King},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BkR}{%
+         family={Blume-kohout},
+         familyi={B\bibinitperiod-k\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SDE}{%
+         family={Savage},
+         familyi={S\bibinitperiod},
+         given={D\bibnamedelima E},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LMG}{%
+         family={Lagally},
+         familyi={L\bibinitperiod},
+         given={M\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Friesen},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CSN}{%
+         family={Coppersmith},
+         familyi={C\bibinitperiod},
+         given={S\bibnamedelima N},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=EMA}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={M\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{KDWDRSCB+1}
+    \strng{fullhash}{KDWDRSCBGJKBkRNESDELMGFMCSNEMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nnano.2014.336
+    \endverb
+    \field{issn}{1748-3387}
+    \field{number}{3}
+    \field{pages}{243\bibrangedash 247}
+    \field{title}{{Microwave-driven coherent operation of a semiconductor
+  quantum dot charge qubit}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nnano.2014.336
+    \endverb
+    \field{volume}{10}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Kim2015.pdf:p
+    \verb df
+    \endverb
+    \field{journaltitle}{Nature Nanotechnology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Thorgrimsson2017}{article}{}
+    \name{author}{13}{}{%
+      {{hash=TB}{%
+         family={Thorgrimsson},
+         familyi={T\bibinitperiod},
+         given={Brandur},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Dohun},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YYc}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Yuan-chi},
+         giveni={Y\bibinitperiod-c\bibinitperiod},
+      }}%
+      {{hash=SLW}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={L\bibnamedelima W},
+         giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SCB}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={C\bibnamedelima B},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WDR}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={Daniel\bibnamedelima R},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FRH}{%
+         family={Foote},
+         familyi={F\bibinitperiod},
+         given={Ryan\bibnamedelima H},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Corrigan},
+         familyi={C\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=SDE}{%
+         family={Savage},
+         familyi={S\bibinitperiod},
+         given={D\bibnamedelima E},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LMG}{%
+         family={Lagally},
+         familyi={L\bibinitperiod},
+         given={M\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Friesen},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CSN}{%
+         family={Coppersmith},
+         familyi={C\bibinitperiod},
+         given={S\bibnamedelima N},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=EMA}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={M\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{TBKDYYc+1}
+    \strng{fullhash}{TBKDYYcSLWSCBWDRFRHCJSDELMGFMCSNEMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/s41534-017-0034-2
+    \endverb
+    \field{issn}{2056-6387}
+    \field{number}{March}
+    \field{pages}{2\bibrangedash 5}
+    \field{title}{{Extending the coherence of a quantum dot hybrid qubit}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41534-017-0034-2
+    \endverb
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Thorgrimsson2
+    \verb 017.pdf:pdf
+    \endverb
+    \field{journaltitle}{npj Quantum Information}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Freeman2017}{article}{}
+    \name{author}{6}{}{%
+      {{hash=FBM}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Blake\bibnamedelima M},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJS}{%
+         family={Schoenfield},
+         familyi={S\bibinitperiod},
+         given={Joshua\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=JH}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Hongwen},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FBM}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Blake\bibnamedelima M},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJS}{%
+         family={Schoenfield},
+         familyi={S\bibinitperiod},
+         given={Joshua\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=JH}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Hongwen},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBMSJSJH+1}
+    \strng{fullhash}{FBMSJSJHFBMSJSJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4954700
+    \endverb
+    \field{number}{2016}
+    \field{title}{{quantum dots Comparison of low frequency charge noise in
+  identically patterned Si / SiO 2 and Si / SiGe quantum dots}}
+    \field{volume}{253108}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Freeman2016.p
+    \verb df:pdf
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{Dial2013}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DOE}{%
+         family={Dial},
+         familyi={D\bibinitperiod},
+         given={O\bibnamedelima E},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SMD}{%
+         family={Shulman},
+         familyi={S\bibinitperiod},
+         given={M\bibnamedelima D},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HSP}{%
+         family={Harvey},
+         familyi={H\bibinitperiod},
+         given={S\bibnamedelima P},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bluhm},
+         familyi={B\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+      {{hash=UV}{%
+         family={Umansky},
+         familyi={U\bibinitperiod},
+         given={V},
+         giveni={V},
+      }}%
+      {{hash=YA}{%
+         family={Yacoby},
+         familyi={Y\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \strng{namehash}{DOESMDHSP+1}
+    \strng{fullhash}{DOESMDHSPBHUVYA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.110.146804
+    \endverb
+    \field{issn}{0031-9007}
+    \field{number}{14}
+    \field{pages}{146804}
+    \field{title}{{Charge Noise Spectroscopy Using Coherent Exchange
+  Oscillations in a Singlet-Triplet Qubit}}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.110.146804
+    \endverb
+    \field{volume}{110}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/charge nois
+    \verb e/dial13PRL(charge noise spectroscopy S-T qubit).pdf:pdf
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Harvey-Collard2017}{article}{}
+    \name{author}{11}{}{%
+      {{hash=HCP}{%
+         family={Harvey-Collard},
+         familyi={H\bibinitperiod-C\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JNT}{%
+         family={Jacobson},
+         familyi={J\bibinitperiod},
+         given={N.\bibnamedelima Tobias},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rudolph},
+         familyi={R\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dominguez},
+         familyi={D\bibinitperiod},
+         given={Jason},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TGA}{%
+         family={{Ten Eyck}},
+         familyi={T\bibinitperiod},
+         given={Gregory\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WJR}{%
+         family={Wendt},
+         familyi={W\bibinitperiod},
+         given={Joel\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Pluym},
+         familyi={P\bibinitperiod},
+         given={Tammy},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GJK}{%
+         family={Gamble},
+         familyi={G\bibinitperiod},
+         given={John\bibnamedelima King},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LMP}{%
+         family={Lilly},
+         familyi={L\bibinitperiod},
+         given={Michael\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PLM}{%
+         family={Pioro-Ladri{\`{e}}re},
+         familyi={P\bibinitperiod-L\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CMS}{%
+         family={Carroll},
+         familyi={C\bibinitperiod},
+         given={Malcolm\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{HCPJNTRM+1}
+    \strng{fullhash}{HCPJNTRMDJTGAWJRPTGJKLMPPLMCMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Individual donors in silicon chips are used as quantum bits with extremely
+  low error rates. However, physical realizations have been limited to one
+  donor because their atomic size causes fabrication challenges. Quantum dot
+  qubits, in contrast, are highly adjustable using electrical gate voltages.
+  This adjustability could be leveraged to deterministically couple donors to
+  quantum dots in arrays of qubits. In this work, we demonstrate the coherent
+  interaction of a {\$}{\^{}}{\{}31{\}}{\$}P donor electron with the electron
+  of a metal-oxide-semiconductor quantum dot. We form a logical qubit encoded
+  in the spin singlet and triplet states of the two-electron system. We show
+  that the donor nuclear spin drives coherent rotations between the electronic
+  qubit states through the contact hyperfine interaction. This provides every
+  key element for compact two-electron spin qubits requiring only a single dot
+  and no additional magnetic field gradients, as well as a means to interact
+  with the nuclear spin qubit.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-017-01113-2
+    \endverb
+    \verb{eprint}
+    \verb 1512.01606
+    \endverb
+    \field{issn}{20411723}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{{Coherent coupling between a quantum dot and a donor in
+  silicon}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41467-017-01113-2
+    \endverb
+    \field{volume}{8}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/s41467-017-
+    \verb 01113-2.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{eprinttype}{arXiv}
+    \field{year}{2017}
+  \endentry
+
   \entry{Boross2016}{article}{}
     \name{author}{3}{}{%
       {{hash=BP}{%
@@ -1040,6 +1562,119 @@
     \field{eprinttype}{arXiv}
     \field{eprintclass}{cond-mat}
     \field{year}{2002}
+  \endentry
+
+  \entry{VanDonkelaar2015}{article}{}
+    \name{author}{11}{}{%
+      {{hash=VJ}{%
+         family={{Van Donkelaar}},
+         familyi={V\bibinitperiod},
+         given={Jessica},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YC}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AAD}{%
+         family={Alves},
+         familyi={A\bibinitperiod},
+         given={A.\bibnamedelima D.C.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={McCallum},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hougaard},
+         familyi={H\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JBC}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={B.\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HFE}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={F.\bibnamedelima E.},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Spemann},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={D.\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \keyw{deterministic doping,ion beam induced charge,ion
+  implantation,nanostencil}
+    \strng{namehash}{VJYCAAD+1}
+    \strng{fullhash}{VJYCAADMJCHCJBCHFEDASMASDJDN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    To expand the capabilities of semiconductor devices for new functions
+  exploiting the quantum states of single donors or other impurity atoms
+  requires a deterministic fabrication method. Ion implantation is a standard
+  tool of the semiconductor industry and we have developed pathways to
+  deterministic ion implantation to address this challenge. Although ion
+  straggling limits the precision with which atoms can be positioned, for
+  single atom devices it is possible to use post-implantation techniques to
+  locate favourably placed atoms in devices for control and readout. However,
+  large-scale devices will require improved precision. We examine here how the
+  method of ion beam induced charge, already demonstrated for the deterministic
+  ion implantation of 14 keV P donor atoms in silicon, can be used to implant a
+  non-Poisson distribution of ions in silicon. Further, we demonstrate the
+  method can be developed to higher precision by the incorporation of new
+  deterministic ion implantation strategies that employ on-chip detectors with
+  internal charge gain. In a silicon device we show a pulse height spectrum for
+  14 keV P ion impact that shows an internal gain of 3 that has the potential
+  of allowing deterministic implantation of sub-14 keV P ions with reduced
+  straggling.%
+    }
+    \verb{doi}
+    \verb 10.1088/0953-8984/27/15/154204
+    \endverb
+    \field{issn}{1361648X}
+    \field{number}{15}
+    \field{title}{{Single atom devices by ion implantation}}
+    \field{volume}{27}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/VanDonkelaar2
+    \verb 015.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Physics Condensed Matter}
+    \field{year}{2015}
   \endentry
 
   \entry{Veldhorst2014}{article}{}
@@ -1251,6 +1886,23 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Chicone1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Chicone},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Ordinary Differential Equations with Applications}}
+    \field{year}{1999}
+  \endentry
+
   \entry{Oh2013}{article}{}
     \name{author}{5}{}{%
       {{hash=OS}{%
@@ -1320,6 +1972,533 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Henkel1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HC}{%
+         family={Henkel},
+         familyi={H\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+      {{hash=PS}{%
+         family={P{\"{o}}tting},
+         familyi={P\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=WM}{%
+         family={Wilkens},
+         familyi={W\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+    }
+    \strng{namehash}{HCPSWM1}
+    \strng{fullhash}{HCPSWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{379\bibrangedash 387}
+    \field{title}{{Loss and heating of particles in small and noisy traps}}
+    \field{volume}{387}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Henkel1999.pd
+    \verb f:pdf
+    \endverb
+    \field{year}{1999}
+  \endentry
+
+  \entry{Bylander2011}{article}{}
+    \name{author}{10}{}{%
+      {{hash=BJ}{%
+         family={Bylander},
+         familyi={B\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gustavsson},
+         familyi={G\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YF}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Fei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YF}{%
+         family={Yoshihara},
+         familyi={Y\bibinitperiod},
+         given={Fumiki},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Harrabi},
+         familyi={H\bibinitperiod},
+         given={Khalil},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Fitch},
+         familyi={F\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CDG}{%
+         family={Cory},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima G.},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NY}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Yasunobu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TJS}{%
+         family={Tsai},
+         familyi={T\bibinitperiod},
+         given={Jaw\bibnamedelima Shen},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OWD}{%
+         family={Oliver},
+         familyi={O\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BJGSYF+1}
+    \strng{fullhash}{BJGSYFYFHKFGCDGNYTJSOWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The characterization and mitigation of decoherence in natural and
+  artificial two-level systems (qubits) is fundamental to quantum information
+  science and its applications. Decoherence of a quantum superposition state
+  arises from the interaction between the constituent system and the
+  uncontrolled degrees of freedom in its environment. Within the standard
+  Bloch-Redfield picture of two-level system dynamics, qubit decoherence is
+  characterized by two rates: a longitudinal relaxation rate Gamma1 due to the
+  exchange of energy with the environment, and a transverse relaxation rate
+  Gamma2 = Gamma1/2 + Gamma{\_}phi which contains the pure dephasing rate
+  Gamma{\_}phi. Irreversible energy relaxation can only be mitigated by
+  reducing the amount of environmental noise, reducing the qubit's internal
+  sensitivity to that noise, or through multi-qubit encoding and error
+  correction protocols (which already presume ultra-low error rates). In
+  contrast, dephasing is in principle reversible and can be refocused
+  dynamically through the application of coherent control pulse methods. In
+  this work we demonstrate how dynamical-decoupling techniques can moderate the
+  dephasing effects of low-frequency noise on a superconducting qubit with
+  energy-relaxation time T1 = 1/Gamma1 = 12 us. Using the CPMG sequence with up
+  to 200 pi-pulses, we demonstrate a 50-fold improvement in the transverse
+  relaxation time T2 over its baseline value. We observe relaxation-limited
+  times T2(CPMG) = 23 us = 2 T1 resulting from CPMG-mediated Gaussian
+  pure-dephasing times in apparent excess of 100 us. We leverage the filtering
+  property of this sequence in conjunction with Rabi and energy relaxation
+  measurements to facilitate the spectroscopy and reconstruction of the
+  environmental noise power spectral density.%
+    }
+    \verb{doi}
+    \verb 10.1038/nphys1994
+    \endverb
+    \verb{eprint}
+    \verb 1101.4707
+    \endverb
+    \field{isbn}{1745-2473}
+    \field{issn}{17452473}
+    \field{number}{7}
+    \field{pages}{565\bibrangedash 570}
+    \field{title}{{Noise spectroscopy through dynamical decoupling with a
+  superconducting flux qubit}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nphys1994
+    \endverb
+    \field{volume}{7}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Bylander2011.
+    \verb pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Physics}
+    \field{eprinttype}{arXiv}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Laucht2016}{article}{}
+    \name{author}{13}{}{%
+      {{hash=LA}{%
+         family={Laucht},
+         familyi={L\bibinitperiod},
+         given={Arne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kalra},
+         familyi={K\bibinitperiod},
+         given={Rachpon},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Stephanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DJP}{%
+         family={Dehollain},
+         familyi={D\bibinitperiod},
+         given={Juan\bibnamedelima P},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MJT}{%
+         family={Muhonen},
+         familyi={M\bibinitperiod},
+         given={Juha\bibnamedelima T},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MFA}{%
+         family={Mohiyaddin},
+         familyi={M\bibinitperiod},
+         given={Fahd\bibnamedelima A},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Freer},
+         familyi={F\bibinitperiod},
+         given={Solomon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HFE}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Fay\bibnamedelima E},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=IKM}{%
+         family={Itoh},
+         familyi={I\bibinitperiod},
+         given={Kohei\bibnamedelima M},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima N},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Jeffrey\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={Andrew\bibnamedelima S},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{LAKRSS+1}
+    \strng{fullhash}{LAKRSSDJPMJTMFAFSHFEIKMJDNMJCDASMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nnano.2016.178
+    \endverb
+    \field{issn}{1748-3387}
+    \field{number}{1}
+    \field{pages}{61\bibrangedash 66}
+    \field{title}{{A dressed spin qubit in silicon}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nnano.2016.178
+    \endverb
+    \field{volume}{12}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Laucht2017.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Nature Nanotechnology}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Yan2013}{article}{}
+    \name{author}{9}{}{%
+      {{hash=YF}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Fei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gustavsson},
+         familyi={G\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bylander},
+         familyi={B\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JX}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Xiaoyue},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=YF}{%
+         family={Yoshihara},
+         familyi={Y\bibinitperiod},
+         given={Fumiki},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CDG}{%
+         family={Cory},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima G},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NY}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Yasunobu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=OTP}{%
+         family={Orlando},
+         familyi={O\bibinitperiod},
+         given={Terry\bibnamedelima P},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=OWD}{%
+         family={Oliver},
+         familyi={O\bibinitperiod},
+         given={William\bibnamedelima D},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{YFGSBJ+1}
+    \strng{fullhash}{YFGSBJJXYFCDGNYOTPOWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/ncomms3337
+    \endverb
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{driven evolution}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/ncomms3337
+    \endverb
+    \field{volume}{4}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Yan2011.pdf:p
+    \verb df
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Astafiev2004}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AO}{%
+         family={Astafiev},
+         familyi={A\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=PYA}{%
+         family={Pashkin},
+         familyi={P\bibinitperiod},
+         given={Yu\bibnamedelima A.},
+         giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NY}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YT}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TJS}{%
+         family={Tsai},
+         familyi={T\bibinitperiod},
+         given={J.\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AOPYANY+1}
+    \strng{fullhash}{AOPYANYYTTJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We study decoherence of the Josephson charge qubit by measuring energy
+  relaxation and dephasing with help of the single-shot readout. We found that
+  the dominant energy relaxation process is a spontaneous emission induced by
+  quantum noise coupled to the charge degree of freedom. Spectral density of
+  the noise at high frequencies is roughly proportional to the qubit excitation
+  energy.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.93.267007
+    \endverb
+    \verb{eprint}
+    \verb 0411216
+    \endverb
+    \field{isbn}{0031-9007 (Print)$\backslash$r0031-9007 (Linking)}
+    \field{issn}{00319007}
+    \field{number}{26 I}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{{Quantum noise in the josephson charge qubit}}
+    \field{volume}{93}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Astafiev2004.
+    \verb pdf:pdf
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cond-mat}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Shnirman2005}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SA}{%
+         family={Shnirman},
+         familyi={S\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Schoen},
+         familyi={S\bibinitperiod},
+         given={Gerd},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Ivar},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Makhlin},
+         familyi={M\bibinitperiod},
+         given={Yuriy},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SASGMI+1}
+    \strng{fullhash}{SASGMIMY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.94.127002
+    \endverb
+    \field{number}{April}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{{Low- and High-Frequency Noise from Coherent Two-Level
+  Systems}}
+    \field{volume}{127002}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Shnirman2005.
+    \verb pdf:pdf
+    \endverb
+    \field{year}{2005}
+  \endentry
+
+  \entry{Poudel2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PA}{%
+         family={Poudel},
+         familyi={P\bibinitperiod},
+         given={Amrit},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LLS}{%
+         family={Langsjoen},
+         familyi={L\bibinitperiod},
+         given={Luke\bibnamedelima S.},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VMG}{%
+         family={Vavilov},
+         familyi={V\bibinitperiod},
+         given={Maxim\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Joynt},
+         familyi={J\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PALLSVMG+1}
+    \strng{fullhash}{PALLSVMGJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We present our study of decoherence in charge (spin) qubits due to
+  evanescent-wave Johnson noise (EWJN) in a laterally coupled double quantum
+  dot (single quantum dot). The high density of evanescent modes in the
+  vicinity of metallic gates causes energy relaxation and a loss of phase
+  coherence of electrons trapped in quantum dots. We derive expressions for the
+  resultant energy relaxation rates of charge and spin qubits in a variety of
+  dot geometries, and EWJN is shown to be a dominant source of decoherence for
+  spin qubits held at low magnetic fields. Previous studies in this field
+  approximated the charge or spin qubit as a point dipole. Ignoring the finite
+  size of the quantum dot in this way leads to a spurious divergence in the
+  relaxation rate as the qubit approaches the metal. Our approach goes beyond
+  the dipole approximation and remedies this unphysical divergence by taking
+  into account the finite size of the quantum dot. Additionally, we derive an
+  enhancement of EWJN that occurs outside a thin metallic film, relative to the
+  field surrounding a conducting half-space.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.87.045301
+    \endverb
+    \verb{eprint}
+    \verb 1211.3983
+    \endverb
+    \field{issn}{10980121}
+    \field{number}{4}
+    \field{title}{{Relaxation in quantum dots due to evanescent-wave Johnson
+  noise}}
+    \field{volume}{87}
+    \verb{file}
+    \verb :C$\backslash$:/Users/Steffi/Dropbox/THESIS/T1 paper/poudel{\_}EWJN{\
+    \verb _}2012.pdf:pdf
+    \endverb
+    \field{journaltitle}{Physical Review B - Condensed Matter and Materials
+  Physics}
+    \field{eprinttype}{arXiv}
+    \field{year}{2013}
+  \endentry
+
   \entry{Ravets2014}{article}{}
     \name{author}{6}{}{%
       {{hash=RS}{%
@@ -1375,6 +2554,56 @@
     \verb f:pdf
     \endverb
     \field{year}{2014}
+  \endentry
+
+  \entry{OGorman2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GJO}{%
+         family={Gorman},
+         familyi={G\bibinitperiod},
+         given={Joe\bibnamedelima O},
+         giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=NNH}{%
+         family={Nickerson},
+         familyi={N\bibinitperiod},
+         given={Naomi\bibnamedelima H},
+         giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MJJL}{%
+         family={Morton},
+         familyi={M\bibinitperiod},
+         given={John J\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=BSC}{%
+         family={Benjamin},
+         familyi={B\bibinitperiod},
+         given={Simon\bibnamedelima C},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJONNHRP+1}
+    \strng{fullhash}{GJONNHRPMJJLBSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/npjqi.2015.19
+    \endverb
+    \field{number}{September 2015}
+    \field{title}{{OPEN A silicon-based surface code quantum computer}}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Gorman2016.pd
+    \verb f:pdf
+    \endverb
+    \field{year}{2016}
   \endentry
 
   \entry{Hill2015}{article}{}
@@ -1441,6 +2670,103 @@
     \verb pdf
     \endverb
     \field{year}{2015}
+  \endentry
+
+  \entry{Li2018}{article}{}
+    \name{author}{13}{}{%
+      {{hash=LR}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Ruoyu},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Petit},
+         familyi={P\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FDP}{%
+         family={Franke},
+         familyi={F\bibinitperiod},
+         given={David\bibnamedelima P},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DJP}{%
+         family={Dehollain},
+         familyi={D\bibinitperiod},
+         given={Juan\bibnamedelima Pablo},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Helsen},
+         familyi={H\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Steudtner},
+         familyi={S\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TNK}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Nicole\bibnamedelima K},
+         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=YZR}{%
+         family={Yoscovits},
+         familyi={Y\bibinitperiod},
+         given={Zachary\bibnamedelima R},
+         giveni={Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SKJ}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Kanwal\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wehner},
+         familyi={W\bibinitperiod},
+         given={Stephanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VLMK}{%
+         family={Vandersypen},
+         familyi={V\bibinitperiod},
+         given={Lieven M\bibnamedelima K},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+      {{hash=CJS}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={James\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Veldhorst},
+         familyi={V\bibinitperiod},
+         given={Menno},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRPLFDP+1}
+    \strng{fullhash}{LRPLFDPDJPHJSMTNKYZRSKJWSVLMKCJSVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{July}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{CONDENSED MATTER PHYSICS A crossbar network for silicon
+  quantum dot qubits}}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Li2018.pdf:pd
+    \verb f
+    \endverb
+    \field{year}{2018}
   \endentry
 
   \entry{Vandersypen2016}{article}{}
@@ -1550,6 +2876,138 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Veldhorst2017}{article}{}
+    \name{author}{4}{}{%
+      {{hash=VM}{%
+         family={Veldhorst},
+         familyi={V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EHG}{%
+         family={Eenink},
+         familyi={E\bibinitperiod},
+         given={H.\bibnamedelima G.J.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=YCH}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VMEHGYCH+1}
+    \strng{fullhash}{VMEHGYCHDAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Recent advances in quantum error correction (QEC) codes for fault-tolerant
+  quantum computing $\backslash$cite{\{}Terhal2015{\}} and physical
+  realizations of high-fidelity qubits in a broad range of platforms
+  $\backslash$cite{\{}Kok2007, Brown2011, Barends2014, Waldherr2014, Dolde2014,
+  Muhonen2014, Veldhorst2014{\}} give promise for the construction of a quantum
+  computer based on millions of interacting qubits. However, the
+  classical-quantum interface remains a nascent field of exploration. Here, we
+  propose an architecture for a silicon-based quantum computer processor based
+  entirely on complementary metal-oxide-semiconductor (CMOS) technology, which
+  is the basis for all modern processor chips. We show how a transistor-based
+  control circuit together with charge-storage electrodes can be used to
+  operate a dense and scalable two-dimensional qubit system. The qubits are
+  defined by the spin states of a single electron confined in a quantum dot,
+  coupled via exchange interactions, controlled using a microwave cavity, and
+  measured via gate-based dispersive readout
+  $\backslash$cite{\{}Colless2013{\}}. This system, based entirely on available
+  technology and existing components, is compatible with general surface code
+  quantum error correction $\backslash$cite{\{}Terhal2015{\}}, enabling
+  large-scale universal quantum computation.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-017-01905-6
+    \endverb
+    \verb{eprint}
+    \verb 1609.09700
+    \endverb
+    \field{issn}{20411723}
+    \field{number}{1}
+    \field{title}{{Silicon CMOS architecture for a spin-based quantum
+  computer}}
+    \field{volume}{8}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Veldhorst2016
+    \verb .pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{eprinttype}{arXiv}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Trifunovic2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TL}{%
+         family={Trifunovic},
+         familyi={T\bibinitperiod},
+         given={Luka},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PF}{%
+         family={Pedrocchi},
+         familyi={P\bibinitperiod},
+         given={Fabio},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Loss},
+         familyi={L\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TLPFLD1}
+    \strng{fullhash}{TLPFLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This review describes recent groundbreaking results in Si, Si=SiGe, and
+  dopant-based quantum dots, and it highlights the remarkable advances in
+  Si-based quantum physics that have occurred in the past few years. This
+  progress has been possible thanks to materials development of Si quantum
+  devices, and the physical understanding of quantum effects in silicon. Recent
+  critical steps include the isolation of single electrons, the observation of
+  spin blockade, and single-shot readout of individual electron spins in both
+  dopants and gated quantum dots in Si. Each of these results has come with
+  physics that was not anticipated from previous work in other material
+  systems. These advances underline the significant progress toward the
+  realization of spin quantum bits in a material with a long spin coherence
+  time, crucial for quantum computation and spintronics.%
+    }
+    \verb{doi}
+    \verb 10.1103/RevModPhys.85.961
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1206.5202v1
+    \endverb
+    \field{isbn}{0034-6861$\backslash$n1539-0756}
+    \field{issn}{00346861}
+    \field{number}{3}
+    \field{pages}{041023}
+    \field{title}{{Long distance entanglement of spin qubits via Ferromagnet}}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/Zwanenburg2
+    \verb 013{\_}RevModPhys.85.961{\_}SiQDRev.pdf:pdf;:Q$\backslash$:/spin-QED/
+    \verb Steffi Stuff/References/THESIS/Trifunovic2013.pdf:pdf
+    \endverb
+    \field{journaltitle}{Physical Reveiw X}
+    \field{eprinttype}{arXiv}
+    \field{year}{2013}
+  \endentry
+
   \entry{Childress2004}{article}{}
     \name{author}{2}{}{%
       {{hash=CL}{%
@@ -1580,6 +3038,192 @@
     \verb .pdf:pdf
     \endverb
     \field{year}{2004}
+  \endentry
+
+  \entry{Xiang2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=XZL}{%
+         family={Xiang},
+         familyi={X\bibinitperiod},
+         given={Ze-Liang},
+         giveni={Z\bibinitperiod-L\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Ashhab},
+         familyi={A\bibinitperiod},
+         given={Sahel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YJQ}{%
+         family={You},
+         familyi={Y\bibinitperiod},
+         given={J.\bibnamedelima Q.},
+         giveni={J\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Nori},
+         familyi={N\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XZLASYJQ+1}
+    \strng{fullhash}{XZLASYJQNF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Hybrid quantum circuits combine two or more physical systems, with the goal
+  of harnessing the advantages and strengths of the different systems in order
+  to better explore new phenomena and potentially bring about novel quantum
+  technologies. This article presents a brief overview of the progress achieved
+  so far in the field of hybrid circuits involving atoms, spins and solid-state
+  devices (including superconducting and nanomechanical systems). How these
+  circuits combine elements from atomic physics, quantum optics, condensed
+  matter physics, and nanoscience is discussed, and different possible
+  approaches for integrating various systems into a single circuit are
+  presented. In particular, hybrid quantum circuits can be fabricated on a
+  chip, facilitating their future scalability, which is crucial for building
+  future quantum technologies, including quantum detectors, simulators, and
+  computers.%
+    }
+    \verb{doi}
+    \verb 10.1103/RevModPhys.85.623
+    \endverb
+    \verb{eprint}
+    \verb 1204.2137
+    \endverb
+    \field{isbn}{0034-6861 1539-0756}
+    \field{issn}{0034-6861}
+    \field{number}{June}
+    \field{title}{{Hybrid quantum circuits: Superconducting circuits
+  interacting with other quantum systems}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1204.2137{\%}0Ahttp://dx.doi.org/10.1103/RevModP
+    \verb hys.85.623
+    \endverb
+    \field{volume}{85}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/Reviews/RevModPhys.8
+    \verb 5.623 (SC hybrid circuits).pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Mi2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MX}{%
+         family={Mi},
+         familyi={M\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CJV}{%
+         family={Cady},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima V.},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=ZDM}{%
+         family={Zajac},
+         familyi={Z\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DPW}{%
+         family={Deelman},
+         familyi={D\bibinitperiod},
+         given={P.\bibnamedelima W.},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=PJR}{%
+         family={Petta},
+         familyi={P\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MXCJVZDM+1}
+    \strng{fullhash}{MXCJVZDMDPWPJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Silicon is vital to the computing industry due to the high quality of its
+  native oxide and well-established doping technologies. Isotopic purification,
+  and the resulting seconds-long quantum coherence times, have recently put Si
+  at the forefront of efforts to create a solid state quantum processor. Here
+  we demonstrate strong coupling of a single electron in a silicon double
+  quantum dot to the photonic field of a microwave cavity, as shown by the
+  observation of vacuum Rabi splitting. Strong coupling of a quantum dot
+  electron to a cavity photon would allow for long-range qubit coupling, and
+  the long-range entanglement of electrons in semiconductor quantum dots.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aal2469
+    \endverb
+    \verb{eprint}
+    \verb 1703.03047
+    \endverb
+    \field{isbn}{1095-9203 (Electronic)$\backslash$r0036-8075 (Linking)}
+    \field{issn}{10959203}
+    \field{number}{6321}
+    \field{pages}{156\bibrangedash 158}
+    \field{title}{{Strong coupling of a single electron in silicon to a
+  microwave photon}}
+    \field{volume}{355}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Mi2016.pdf:pd
+    \verb f
+    \endverb
+    \field{journaltitle}{Science}
+    \field{eprinttype}{arXiv}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Tosi2017}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TG}{%
+         family={Tosi},
+         familyi={T\bibinitperiod},
+         given={Guilherme},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MFA}{%
+         family={Mohiyaddin},
+         familyi={M\bibinitperiod},
+         given={Fahd\bibnamedelima A},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Huebl},
+         familyi={H\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGMFAHH+1}
+    \strng{fullhash}{TGMFAHHMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4893242
+    \endverb
+    \field{number}{2014}
+    \field{title}{{qubits in isotopically enriched Si Circuit-quantum
+  electrodynamics with direct magnetic coupling to single-atom spin qubits in
+  isotopically}}
+    \field{volume}{087122}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Tosi2014.pdf:
+    \verb pdf
+    \endverb
+    \field{year}{2017}
   \endentry
 
   \entry{Haikka2017}{article}{}
@@ -1841,6 +3485,301 @@
     \field{journaltitle}{Physical Review Applied}
     \field{eprinttype}{arXiv}
     \field{year}{2016}
+  \endentry
+
+  \entry{Castellanos2008}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CBMA}{%
+         family={Castellanos-Beltran},
+         familyi={C\bibinitperiod-B\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=IKD}{%
+         family={Irwin},
+         familyi={I\bibinitperiod},
+         given={K.\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HGC}{%
+         family={Hilton},
+         familyi={H\bibinitperiod},
+         given={G.\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=VLR}{%
+         family={Vale},
+         familyi={V\bibinitperiod},
+         given={L.\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LKW}{%
+         family={Lehnert},
+         familyi={L\bibinitperiod},
+         given={K.\bibnamedelima W.},
+         giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBMAIKDHGC+1}
+    \strng{fullhash}{CBMAIKDHGCVLRLKW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    It has recently become possible to encode the quantum state of
+  superconducting qubits and the position of nanomechanical oscillators into
+  the states of microwave fields. However, to make an ideal measurement of the
+  state of a qubit, or to detect the position of a mechanical oscillator with
+  quantum-limited sensitivity requires an amplifier that adds no noise. If an
+  amplifier adds less than half a quantum of noise, it can also squeeze the
+  quantum noise of the electromagnetic vacuum. Highly squeezed states of the
+  vacuum serve as an important quantum information resource. They can be used
+  to generate entanglement or to realize back-action-evading measurements of
+  position. Here we introduce a general purpose parametric device, which
+  operates in a frequency band between 4 and 8 GHz. It is a subquantum-limited
+  microwave amplifier, it amplifies quantum noise above the added noise of
+  commercial amplifiers, and it squeezes quantum fluctuations by 10 dB.%
+    }
+    \verb{doi}
+    \verb 10.1038/nphys1090
+    \endverb
+    \verb{eprint}
+    \verb 0806.0659
+    \endverb
+    \field{isbn}{1745-2473}
+    \field{issn}{17452473}
+    \field{number}{12}
+    \field{pages}{928\bibrangedash 931}
+    \field{title}{{Amplification and squeezing of quantum noise with a tunable
+  Josephson metamaterial}}
+    \field{volume}{4}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Castellanos-B
+    \verb eltran2008.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Physics}
+    \field{eprinttype}{arXiv}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Barends2014}{article}{}
+    \name{author}{22}{}{%
+      {{hash=BR}{%
+         family={Barends},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Megrant},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Veitia},
+         familyi={V\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sank},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JE}{%
+         family={Jeffrey},
+         familyi={J\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WTC}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={T.\bibnamedelima C.},
+         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mutus},
+         familyi={M\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FAG}{%
+         family={Fowler},
+         familyi={F\bibinitperiod},
+         given={A.\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Chiaro},
+         familyi={C\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dunsworth},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Neill},
+         familyi={N\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={O'Malley},
+         familyi={O\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Roushan},
+         familyi={R\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vainsencher},
+         familyi={V\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wenner},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KAN}{%
+         family={Korotkov},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=CAN}{%
+         family={Cleland},
+         familyi={C\bibinitperiod},
+         given={A.\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MJM}{%
+         family={Martinis},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BRKJMA+1}
+    \strng{fullhash}{BRKJMAVASDJEWTCMJFAGCBCYCZCBDANCOPRPVAWJKANCANMJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A quantum computer can solve hard problems - such as prime factoring,
+  database searching, and quantum simulation - at the cost of needing to
+  protect fragile quantum states from error. Quantum error correction provides
+  this protection, by distributing a logical state among many physical qubits
+  via quantum entanglement. Superconductivity is an appealing platform, as it
+  allows for constructing large quantum circuits, and is compatible with
+  microfabrication. For superconducting qubits the surface code is a natural
+  choice for error correction, as it uses only nearest-neighbour coupling and
+  rapidly-cycled entangling gates. The gate fidelity requirements are modest:
+  The per-step fidelity threshold is only about 99{\%}. Here, we demonstrate a
+  universal set of logic gates in a superconducting multi-qubit processor,
+  achieving an average single-qubit gate fidelity of 99.92{\%} and a two-qubit
+  gate fidelity up to 99.4{\%}. This places Josephson quantum computing at the
+  fault-tolerant threshold for surface code error correction. Our quantum
+  processor is a first step towards the surface code, using five qubits
+  arranged in a linear array with nearest-neighbour coupling. As a further
+  demonstration, we construct a five-qubit Greenberger-Horne-Zeilinger (GHZ)
+  state using the complete circuit and full set of gates. The results
+  demonstrate that Josephson quantum computing is a high-fidelity technology,
+  with a clear path to scaling up to large-scale, fault-tolerant quantum
+  circuits.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature13171
+    \endverb
+    \verb{eprint}
+    \verb 1402.4848
+    \endverb
+    \field{isbn}{0028-0836}
+    \field{issn}{14764687}
+    \field{number}{7497}
+    \field{pages}{500\bibrangedash 503}
+    \field{title}{{Superconducting quantum circuits at the surface code
+  threshold for fault tolerance}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nature13171
+    \endverb
+    \field{volume}{508}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/OtherQubits/Barends2
+    \verb 014{\_}SC{\_}nature13171.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{eprinttype}{arXiv}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Devoret2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DMH}{%
+         family={Devoret},
+         familyi={D\bibinitperiod},
+         given={M.\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SRJ}{%
+         family={Schoelkopf},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DMHSRJ1}
+    \strng{fullhash}{DMHSRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{March}
+    \field{pages}{1169\bibrangedash 1175}
+    \field{title}{{Superconducting Circuits for Quantum}}
+    \field{volume}{339}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Devoret2013.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{year}{2013}
   \endentry
 
   \entry{Morton2008}{article}{}
@@ -2188,6 +4127,44 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Sarabi2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SB}{%
+         family={Sarabi},
+         familyi={S\bibinitperiod},
+         given={Bahman},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Peihao},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZNM}{%
+         family={Zimmerman},
+         familyi={Z\bibinitperiod},
+         given={Neil\bibnamedelima M},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBHPZNM1}
+    \strng{fullhash}{SBHPZNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb arXiv:1702.02210v3
+    \endverb
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{spin to a circuit resonator}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Sarabi2017.pd
+    \verb f:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2018}
+  \endentry
+
   \entry{Pioro-Ladriere2008}{article}{}
     \name{author}{8}{}{%
       {{hash=PLM}{%
@@ -2420,25 +4397,43 @@
     \field{year}{2016}
   \endentry
 
-  \entry{Tosi2017}{article}{}
-    \name{author}{4}{}{%
-      {{hash=TG}{%
-         family={Tosi},
-         familyi={T\bibinitperiod},
-         given={Guilherme},
-         giveni={G\bibinitperiod},
+  \entry{Dehollain2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DJP}{%
+         family={Dehollain},
+         familyi={D\bibinitperiod},
+         given={Juan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
       }}%
-      {{hash=MFA}{%
-         family={Mohiyaddin},
+      {{hash=MJT}{%
+         family={Muhonen},
          familyi={M\bibinitperiod},
-         given={Fahd\bibnamedelima A},
-         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Juha\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
       }}%
-      {{hash=HH}{%
-         family={Huebl},
-         familyi={H\bibinitperiod},
-         given={Hans},
-         giveni={H\bibinitperiod},
+      {{hash=TKY}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Kuan\bibnamedelima Y.},
+         giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Saraiva},
+         familyi={S\bibinitperiod},
+         given={Andre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
       }}%
       {{hash=MA}{%
          family={Morello},
@@ -2447,139 +4442,48 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TGMFAHH+1}
-    \strng{fullhash}{TGMFAHHMA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \verb{doi}
-    \verb 10.1063/1.4893242
-    \endverb
-    \field{number}{2014}
-    \field{title}{{qubits in isotopically enriched Si Circuit-quantum
-  electrodynamics with direct magnetic coupling to single-atom spin qubits in
-  isotopically}}
-    \field{volume}{087122}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Tosi2014.pdf:
-    \verb pdf
-    \endverb
-    \field{year}{2017}
-  \endentry
-
-  \entry{Harvey-Collard2017}{article}{}
-    \name{author}{11}{}{%
-      {{hash=HCP}{%
-         family={Harvey-Collard},
-         familyi={H\bibinitperiod-C\bibinitperiod},
-         given={Patrick},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=JNT}{%
-         family={Jacobson},
-         familyi={J\bibinitperiod},
-         given={N.\bibnamedelima Tobias},
-         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=RM}{%
-         family={Rudolph},
-         familyi={R\bibinitperiod},
-         given={Martin},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=DJ}{%
-         family={Dominguez},
-         familyi={D\bibinitperiod},
-         given={Jason},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=TGA}{%
-         family={{Ten Eyck}},
-         familyi={T\bibinitperiod},
-         given={Gregory\bibnamedelima A.},
-         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=WJR}{%
-         family={Wendt},
-         familyi={W\bibinitperiod},
-         given={Joel\bibnamedelima R.},
-         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=PT}{%
-         family={Pluym},
-         familyi={P\bibinitperiod},
-         given={Tammy},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=GJK}{%
-         family={Gamble},
-         familyi={G\bibinitperiod},
-         given={John\bibnamedelima King},
-         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-      {{hash=LMP}{%
-         family={Lilly},
-         familyi={L\bibinitperiod},
-         given={Michael\bibnamedelima P.},
-         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=PLM}{%
-         family={Pioro-Ladri{\`{e}}re},
-         familyi={P\bibinitperiod-L\bibinitperiod},
-         given={Michel},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=CMS}{%
-         family={Carroll},
-         familyi={C\bibinitperiod},
-         given={Malcolm\bibnamedelima S.},
-         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Springer US}%
-    }
-    \strng{namehash}{HCPJNTRM+1}
-    \strng{fullhash}{HCPJNTRMDJTGAWJRPTGJKLMPPLMCMS1}
+    \strng{namehash}{DJPMJTTKY+1}
+    \strng{fullhash}{DJPMJTTKYSAJDNDASMA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{abstract}{%
-    Individual donors in silicon chips are used as quantum bits with extremely
-  low error rates. However, physical realizations have been limited to one
-  donor because their atomic size causes fabrication challenges. Quantum dot
-  qubits, in contrast, are highly adjustable using electrical gate voltages.
-  This adjustability could be leveraged to deterministically couple donors to
-  quantum dots in arrays of qubits. In this work, we demonstrate the coherent
-  interaction of a {\$}{\^{}}{\{}31{\}}{\$}P donor electron with the electron
-  of a metal-oxide-semiconductor quantum dot. We form a logical qubit encoded
-  in the spin singlet and triplet states of the two-electron system. We show
-  that the donor nuclear spin drives coherent rotations between the electronic
-  qubit states through the contact hyperfine interaction. This provides every
-  key element for compact two-electron spin qubits requiring only a single dot
-  and no additional magnetic field gradients, as well as a means to interact
-  with the nuclear spin qubit.%
+    We present the experimental observation of a large exchange coupling {\$}J
+  \backslashapprox 300{\$} {\$}\backslashmu{\$}eV between two
+  {\$}{\^{}}{\{}31{\}}{\$}P electron spin qubits in silicon. The singlet and
+  triplet states of the coupled spins are monitored in real time by a
+  Single-Electron Transistor, which detects ionization from
+  tunnel-rate-dependent processes in the coupled spin system, yielding
+  single-shot readout fidelities above 95{\%}. The triplet to singlet
+  relaxation time {\$}T{\_}1 \backslashapprox 4{\$} ms at zero magnetic field
+  agrees with the theoretical prediction for {\$}J{\$}-coupled
+  {\$}{\^{}}{\{}31{\}}{\$}P dimers in silicon. The time evolution of the
+  2-electron state populations gives further insight into the valley-orbit
+  eigenstates of the donor dimer, valley selection rules and relaxation rates,
+  and the role of hyperfine interactions. These results pave the way to the
+  realization of 2-qubit quantum logic gates with spins in silicon, and
+  highlight the necessity to adopt gating schemes compatible with weak
+  {\$}J{\$}-coupling strengths.%
     }
     \verb{doi}
-    \verb 10.1038/s41467-017-01113-2
+    \verb 10.1103/PhysRevLett.112.236801
     \endverb
     \verb{eprint}
-    \verb 1512.01606
+    \verb 1402.7148
     \endverb
-    \field{issn}{20411723}
-    \field{number}{1}
-    \field{pages}{1\bibrangedash 6}
-    \field{title}{{Coherent coupling between a quantum dot and a donor in
-  silicon}}
-    \verb{url}
-    \verb http://dx.doi.org/10.1038/s41467-017-01113-2
-    \endverb
-    \field{volume}{8}
+    \field{isbn}{0031-9007}
+    \field{issn}{10797114}
+    \field{number}{23}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{{Single-shot readout and relaxation of singlet and triplet
+  states in exchange-coupled P 31 electron spins in silicon}}
+    \field{volume}{112}
     \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/s41467-017-
-    \verb 01113-2.pdf:pdf
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/Morello/Deh
+    \verb ollain2014{\_}PhysRevLett.112.236801.pdf:pdf
     \endverb
-    \field{journaltitle}{Nature Communications}
+    \field{journaltitle}{Physical Review Letters}
     \field{eprinttype}{arXiv}
-    \field{year}{2017}
+    \field{year}{2014}
   \endentry
 
   \entry{Pla2013}{article}{}
@@ -2697,6 +4601,33 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Kok2010}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KP}{%
+         family={Kok},
+         familyi={K\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lovett},
+         familyi={L\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{KPLB1}
+    \strng{fullhash}{KPLB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{219\bibrangedash 222}
+    \field{title}{{Introduction to Optical Quantum Information Processing}}
+    \field{year}{2010}
+  \endentry
+
   \entry{Bollinger1985}{article}{}
     \name{author}{1}{}{%
       {{hash=BJ}{%
@@ -2771,33 +4702,6 @@
     \endverb
     \field{eprinttype}{arXiv}
     \field{year}{2017}
-  \endentry
-
-  \entry{Paladino2014}{article}{}
-    \name{author}{1}{}{%
-      {{hash=PE}{%
-         family={Paladino},
-         familyi={P\bibinitperiod},
-         given={E},
-         giveni={E},
-      }}%
-    }
-    \strng{namehash}{PE1}
-    \strng{fullhash}{PE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \verb{doi}
-    \verb 10.1103/RevModPhys.86.361
-    \endverb
-    \field{number}{June}
-    \field{title}{{1 = f noise : Implications for solid-state quantum
-  information}}
-    \field{volume}{86}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Paladino2014.
-    \verb pdf:pdf
-    \endverb
-    \field{year}{2014}
   \endentry
 
   \entry{London2013}{article}{}
@@ -2906,7 +4810,7 @@
     \field{year}{2013}
   \endentry
 
-  \entry{Laucht2016}{article}{}
+  \entry{Laucht2016a}{article}{}
     \name{author}{13}{}{%
       {{hash=LA}{%
          family={Laucht},
@@ -2914,17 +4818,23 @@
          given={Arne},
          giveni={A\bibinitperiod},
       }}%
+      {{hash=SS}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Stephanie},
+         giveni={S\bibinitperiod},
+      }}%
       {{hash=KR}{%
          family={Kalra},
          familyi={K\bibinitperiod},
          given={Rachpon},
          giveni={R\bibinitperiod},
       }}%
-      {{hash=SS}{%
-         family={Simmons},
-         familyi={S\bibinitperiod},
-         given={Stephanie},
-         giveni={S\bibinitperiod},
+      {{hash=TG}{%
+         family={Tosi},
+         familyi={T\bibinitperiod},
+         given={Guilherme},
+         giveni={G\bibinitperiod},
       }}%
       {{hash=DJP}{%
          family={Dehollain},
@@ -2937,12 +4847,6 @@
          familyi={M\bibinitperiod},
          given={Juha\bibnamedelima T},
          giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=MFA}{%
-         family={Mohiyaddin},
-         familyi={M\bibinitperiod},
-         given={Fahd\bibnamedelima A},
-         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=FS}{%
          family={Freer},
@@ -2983,33 +4887,25 @@
       {{hash=MA}{%
          family={Morello},
          familyi={M\bibinitperiod},
-         given={A},
-         giveni={A},
+         given={Andrea},
+         giveni={A\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {Nature Publishing Group}%
-    }
-    \strng{namehash}{LAKRSS+1}
-    \strng{fullhash}{LAKRSSDJPMJTMFAFSHFEIKMJDNMJCDASMA1}
+    \strng{namehash}{LASSKR+1}
+    \strng{fullhash}{LASSKRTGDJPMJTFSHFEIKMJDNMJCDASMA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \verb{doi}
-    \verb 10.1038/nnano.2016.178
+    \verb 10.1103/PhysRevB.94.161302
     \endverb
-    \field{issn}{1748-3387}
-    \field{number}{1}
-    \field{pages}{61\bibrangedash 66}
-    \field{title}{{A dressed spin qubit in silicon}}
-    \verb{url}
-    \verb http://dx.doi.org/10.1038/nnano.2016.178
-    \endverb
-    \field{volume}{12}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{{Breaking the rotating wave approximation for a strongly
+  driven dressed single-electron spin}}
+    \field{volume}{161302}
     \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Laucht2017.pd
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Laucht2016.pd
     \verb f:pdf
     \endverb
-    \field{journaltitle}{Nature Nanotechnology}
     \field{year}{2016}
   \endentry
 
@@ -3185,101 +5081,26 @@
     \field{year}{2016}
   \endentry
 
-  \entry{Li2018}{article}{}
-    \name{author}{13}{}{%
-      {{hash=LR}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Ruoyu},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=PL}{%
-         family={Petit},
-         familyi={P\bibinitperiod},
-         given={Luca},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=FDP}{%
-         family={Franke},
+  \entry{Fisher2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={Fisher},
          familyi={F\bibinitperiod},
-         given={David\bibnamedelima P},
-         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=DJP}{%
-         family={Dehollain},
-         familyi={D\bibinitperiod},
-         given={Juan\bibnamedelima Pablo},
-         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=HJ}{%
-         family={Helsen},
-         familyi={H\bibinitperiod},
-         given={Jonas},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=SM}{%
-         family={Steudtner},
-         familyi={S\bibinitperiod},
-         given={Mark},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=TNK}{%
-         family={Thomas},
-         familyi={T\bibinitperiod},
-         given={Nicole\bibnamedelima K},
-         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-      {{hash=YZR}{%
-         family={Yoscovits},
-         familyi={Y\bibinitperiod},
-         given={Zachary\bibnamedelima R},
-         giveni={Z\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=SKJ}{%
-         family={Singh},
-         familyi={S\bibinitperiod},
-         given={Kanwal\bibnamedelima J},
-         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=WS}{%
-         family={Wehner},
-         familyi={W\bibinitperiod},
-         given={Stephanie},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=VLMK}{%
-         family={Vandersypen},
-         familyi={V\bibinitperiod},
-         given={Lieven M\bibnamedelima K},
-         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
-  K\bibinitperiod},
-      }}%
-      {{hash=CJS}{%
-         family={Clarke},
-         familyi={C\bibinitperiod},
-         given={James\bibnamedelima S},
-         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-      {{hash=VM}{%
-         family={Veldhorst},
-         familyi={V\bibinitperiod},
-         given={Menno},
-         giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRPLFDP+1}
-    \strng{fullhash}{LRPLFDPDJPHJSMTNKYZRSKJWSVLMKCJSVM1}
+    \strng{namehash}{F2}
+    \strng{fullhash}{F2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{number}{July}
-    \field{pages}{1\bibrangedash 11}
-    \field{title}{{CONDENSED MATTER PHYSICS A crossbar network for silicon
-  quantum dot qubits}}
+    \field{isbn}{9781467373562}
+    \field{pages}{7\bibrangedash 10}
+    \field{title}{{No Title}}
     \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Li2018.pdf:pd
-    \verb f
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Fischer2015.p
+    \verb df:pdf
     \endverb
-    \field{year}{2018}
+    \field{journaltitle}{IEEET}
+    \field{year}{2015}
   \endentry
 
   \entry{Franke2018}{article}{}
@@ -3812,196 +5633,6 @@
     \field{journaltitle}{Reviews of Modern Physics}
     \field{eprinttype}{arXiv}
     \field{year}{2015}
-  \endentry
-
-  \entry{Barends2014}{article}{}
-    \name{author}{22}{}{%
-      {{hash=BR}{%
-         family={Barends},
-         familyi={B\bibinitperiod},
-         given={R.},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=KJ}{%
-         family={Kelly},
-         familyi={K\bibinitperiod},
-         given={J.},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=MA}{%
-         family={Megrant},
-         familyi={M\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=VA}{%
-         family={Veitia},
-         familyi={V\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=SD}{%
-         family={Sank},
-         familyi={S\bibinitperiod},
-         given={D.},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=JE}{%
-         family={Jeffrey},
-         familyi={J\bibinitperiod},
-         given={E.},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=WTC}{%
-         family={White},
-         familyi={W\bibinitperiod},
-         given={T.\bibnamedelima C.},
-         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-      {{hash=MJ}{%
-         family={Mutus},
-         familyi={M\bibinitperiod},
-         given={J.},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=FAG}{%
-         family={Fowler},
-         familyi={F\bibinitperiod},
-         given={A.\bibnamedelima G.},
-         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
-      }}%
-      {{hash=CB}{%
-         family={Campbell},
-         familyi={C\bibinitperiod},
-         given={B.},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=CY}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Y.},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=CZ}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Z.},
-         giveni={Z\bibinitperiod},
-      }}%
-      {{hash=CB}{%
-         family={Chiaro},
-         familyi={C\bibinitperiod},
-         given={B.},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=DA}{%
-         family={Dunsworth},
-         familyi={D\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=NC}{%
-         family={Neill},
-         familyi={N\bibinitperiod},
-         given={C.},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=OP}{%
-         family={O'Malley},
-         familyi={O\bibinitperiod},
-         given={P.},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=RP}{%
-         family={Roushan},
-         familyi={R\bibinitperiod},
-         given={P.},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=VA}{%
-         family={Vainsencher},
-         familyi={V\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=WJ}{%
-         family={Wenner},
-         familyi={W\bibinitperiod},
-         given={J.},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=KAN}{%
-         family={Korotkov},
-         familyi={K\bibinitperiod},
-         given={A.\bibnamedelima N.},
-         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
-      }}%
-      {{hash=CAN}{%
-         family={Cleland},
-         familyi={C\bibinitperiod},
-         given={A.\bibnamedelima N.},
-         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
-      }}%
-      {{hash=MJM}{%
-         family={Martinis},
-         familyi={M\bibinitperiod},
-         given={John\bibnamedelima M.},
-         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Nature Publishing Group}%
-    }
-    \strng{namehash}{BRKJMA+1}
-    \strng{fullhash}{BRKJMAVASDJEWTCMJFAGCBCYCZCBDANCOPRPVAWJKANCANMJM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    A quantum computer can solve hard problems - such as prime factoring,
-  database searching, and quantum simulation - at the cost of needing to
-  protect fragile quantum states from error. Quantum error correction provides
-  this protection, by distributing a logical state among many physical qubits
-  via quantum entanglement. Superconductivity is an appealing platform, as it
-  allows for constructing large quantum circuits, and is compatible with
-  microfabrication. For superconducting qubits the surface code is a natural
-  choice for error correction, as it uses only nearest-neighbour coupling and
-  rapidly-cycled entangling gates. The gate fidelity requirements are modest:
-  The per-step fidelity threshold is only about 99{\%}. Here, we demonstrate a
-  universal set of logic gates in a superconducting multi-qubit processor,
-  achieving an average single-qubit gate fidelity of 99.92{\%} and a two-qubit
-  gate fidelity up to 99.4{\%}. This places Josephson quantum computing at the
-  fault-tolerant threshold for surface code error correction. Our quantum
-  processor is a first step towards the surface code, using five qubits
-  arranged in a linear array with nearest-neighbour coupling. As a further
-  demonstration, we construct a five-qubit Greenberger-Horne-Zeilinger (GHZ)
-  state using the complete circuit and full set of gates. The results
-  demonstrate that Josephson quantum computing is a high-fidelity technology,
-  with a clear path to scaling up to large-scale, fault-tolerant quantum
-  circuits.%
-    }
-    \verb{doi}
-    \verb 10.1038/nature13171
-    \endverb
-    \verb{eprint}
-    \verb 1402.4848
-    \endverb
-    \field{isbn}{0028-0836}
-    \field{issn}{14764687}
-    \field{number}{7497}
-    \field{pages}{500\bibrangedash 503}
-    \field{title}{{Superconducting quantum circuits at the surface code
-  threshold for fault tolerance}}
-    \verb{url}
-    \verb http://dx.doi.org/10.1038/nature13171
-    \endverb
-    \field{volume}{508}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/OtherQubits/Barends2
-    \verb 014{\_}SC{\_}nature13171.pdf:pdf
-    \endverb
-    \field{journaltitle}{Nature}
-    \field{eprinttype}{arXiv}
-    \field{year}{2014}
   \endentry
 \enddatalist
 \endinput

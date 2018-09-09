@@ -14,7 +14,7 @@ A level-1 auxiliary file: Chapters/Chapter7.aux
 A level-1 auxiliary file: Chapters/Chapter8.aux
 Database file #1: main-blx.bib
 Database file #2: References.bib
-Repeated entry---line 1543 of file References.bib
+Repeated entry---line 1535 of file References.bib
  : @article{Saeedi2013
  :                    ,
 I'm skipping whatever remains of this entry
@@ -40,45 +40,10 @@ Warning--I didn't find a database entry for "Zwanenburg"
 Warning--I didn't find a database entry for "d"
 Warning--I didn't find a database entry for "CPMG"
 Warning--I didn't find a database entry for "T"
-Warning--I didn't find a database entry for "Klimeck2007"
-Warning--I didn't find a database entry for "Johnson2010S"
-Warning--I didn't find a database entry for "Paladino2014S"
-Warning--I didn't find a database entry for "Kim2015S"
-Warning--I didn't find a database entry for "Thorgrimsson2016S"
-Warning--I didn't find a database entry for "Freeman2016S"
-Warning--I didn't find a database entry for "Dial2013S"
-Warning--I didn't find a database entry for "Harvey-Collard2015S"
-Warning--I didn't find a database entry for "Calderon2008"
-Warning--I didn't find a database entry for "Donkelaar2015"
-Warning--I didn't find a database entry for "floquet"
-Warning--I didn't find a database entry for "Dehollain2013S"
-Warning--I didn't find a database entry for "Henkel1999S"
-Warning--I didn't find a database entry for "Bylander2011S"
-Warning--I didn't find a database entry for "Laucht2016S"
-Warning--I didn't find a database entry for "Yan2013S"
-Warning--I didn't find a database entry for "Astafiev2004S"
-Warning--I didn't find a database entry for "Shnirman2005S"
-Warning--I didn't find a database entry for "Poudel2013S"
-Warning--I didn't find a database entry for "Rahman2009S"
-Warning--I didn't find a database entry for "Ravets2014S"
-Warning--I didn't find a database entry for "Ogorman2014"
-Warning--I didn't find a database entry for "Li2017"
-Warning--I didn't find a database entry for "Veldhorst2016"
-Warning--I didn't find a database entry for "Trifunovic2012"
-Warning--I didn't find a database entry for "Xiang2013"
-Warning--I didn't find a database entry for "Mi2016"
-Warning--I didn't find a database entry for "Tosi2014"
-Warning--I didn't find a database entry for "Castellanos2008"
-Warning--I didn't find a database entry for "Ogorman2016"
-Warning--I didn't find a database entry for "Sarabi2017"
-Warning--I didn't find a database entry for "Calderon2006"
-Warning--I didn't find a database entry for "Dehollain2013"
-Warning--I didn't find a database entry for "Kok2010"
-Warning--I didn't find a database entry for "Laucht2017"
+Warning--I didn't find a database entry for "Tenberg2018"
 Warning--I didn't find a database entry for "Freeman2016"
-Warning--I didn't find a database entry for "Fischer2015"
 Warning--I didn't find a database entry for "Ghosh2016"
 Warning--I didn't find a database entry for "Sar2012"
-Warning--I didn't find a database entry for "Devoret2013"
+Warning--I didn't find a database entry for "Li2017"
 Biblatex version: 3.8
 (There were 2 error messages)
