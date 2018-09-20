@@ -3,58 +3,18 @@
 \contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}
 \contentsline {chapter}{Abstract}{vii}{section*.2}
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
-\contentsline {chapter}{\numberline {1}Quantum computing in silicon: A different way of computation}{1}{chapter.14}
-\contentsline {section}{\numberline {1.1}Introduction: The quantum revolution of computation}{2}{section.15}
-\contentsline {section}{\numberline {1.2}Foundation: the qubit}{2}{section.16}
-\contentsline {subsection}{\numberline {1.2.1}An introduction to the qubit}{2}{subsection.17}
-\contentsline {subsection}{\numberline {1.2.2}Phosphorus dopants in silicon}{3}{subsection.19}
-\contentsline {subsection}{\numberline {1.2.3}The Phosphorus donor spin qubit}{5}{subsection.22}
-\contentsline {section}{\numberline {1.3}Approach to large scale quantum computing}{7}{section.31}
-\contentsline {subsection}{\numberline {1.3.1}Surface Code}{7}{subsection.32}
-\contentsline {section}{\numberline {1.4}Circuit Quantum Electrodynamics}{7}{section.33}
-\contentsline {section}{\numberline {1.5}Scope of this thesis}{7}{section.34}
-\contentsline {chapter}{\numberline {2}The flip flop qubit}{9}{chapter.35}
-\contentsline {section}{\numberline {2.1}A new electrically accessible qubit}{10}{section.36}
-\contentsline {subsection}{\numberline {2.1.1}Manipulating the orbital degree of freedom: the charge qubit}{10}{subsection.39}
-\contentsline {subsection}{\numberline {2.1.2}Modulating the hyperfine interaction}{13}{subsection.46}
-\contentsline {subsection}{\numberline {2.1.3}The flip-flop qubit}{15}{subsection.62}
-\contentsline {section}{\numberline {2.2}Electrical noise and relaxation}{17}{section.71}
-\contentsline {subsection}{\numberline {2.2.1}Dephasing due to electrical noise}{17}{subsection.72}
-\contentsline {paragraph}{Si/SiO2 noise characteristics}{18}{section*.74}
-\contentsline {paragraph}{Dephasing}{19}{figure.caption.76}
-\contentsline {subsection}{\numberline {2.2.2}Relaxation}{19}{subsection.78}
-\contentsline {subsection}{\numberline {2.2.3}Tunnel coupling tuning}{20}{subsection.82}
-\contentsline {subsection}{\numberline {2.2.4}Adiabatic phase control}{20}{subsection.84}
-\contentsline {section}{\numberline {2.3}Electric drive}{22}{section.94}
-\contentsline {subsection}{\numberline {2.3.1}Gate noise}{26}{subsection.105}
-\contentsline {section}{\numberline {2.4}Dipole-dipole coupling}{28}{section.107}
-\contentsline {subsection}{\numberline {2.4.1}Dipole Screening}{29}{subsection.112}
-\contentsline {subsection}{\numberline {2.4.2}Two-qubit coupling}{31}{subsection.118}
-\contentsline {subsection}{\numberline {2.4.3}Two-qubit gates}{32}{subsection.125}
-\contentsline {section}{\numberline {2.5}Scaling up using circuit quantum electrodynamics}{34}{section.127}
-\contentsline {section}{\numberline {2.6}Conclusion}{35}{section.129}
-\contentsline {chapter}{\numberline {3}The nuclear spin qubit with an electric dipole transition}{37}{chapter.131}
-\contentsline {section}{\numberline {3.1}Introduction}{38}{section.132}
-\contentsline {section}{\numberline {3.2}Second-order Raman drive of a $^{31}$P nuclear spin}{38}{section.133}
-\contentsline {section}{\numberline {3.3}Robust electric dipole transition of a Si:P nuclear spin}{40}{section.141}
-\contentsline {subsection}{\numberline {3.3.1}Electron, nuclear and charge hybridization}{40}{subsection.142}
-\contentsline {subsection}{\numberline {3.3.2}Resilience against charge noise}{44}{subsection.168}
-\contentsline {subsection}{\numberline {3.3.3}Coupling to microwave cavity photons}{45}{subsection.169}
-\contentsline {subsection}{\numberline {3.3.4}Nuclear spin relaxation}{45}{subsection.170}
-\contentsline {subsection}{\numberline {3.3.5}Dependence of electric dipole strength and spin relaxation rate on frequency and field detuning}{45}{subsection.172}
-\contentsline {section}{\numberline {3.4}Long-distance coupling of nuclear spin qubits}{46}{section.174}
-\contentsline {section}{\numberline {3.5}Conclusion}{48}{section.177}
-\contentsline {chapter}{\numberline {4}Building a quantum processor}{49}{chapter.178}
-\contentsline {section}{\numberline {4.1}Quantum processor architectures}{50}{section.179}
-\contentsline {section}{\numberline {4.2}Operation principles of an electrically controlled donor quantum processor}{52}{section.183}
-\contentsline {section}{\numberline {4.3}Nuclear qubit based processor}{52}{section.184}
-\contentsline {chapter}{\numberline {5}Device fabrication and experimental methods}{53}{chapter.185}
-\contentsline {section}{\numberline {5.1}Device design}{54}{section.186}
-\contentsline {section}{\numberline {5.2}Device fabrication and packaging}{54}{section.187}
-\contentsline {section}{\numberline {5.3}Experimental setup}{54}{section.188}
-\contentsline {chapter}{\numberline {6}Low magnetic field effects in Si:P qubits}{55}{chapter.189}
-\contentsline {section}{\numberline {6.1}Co-tunneling}{56}{section.190}
-\contentsline {section}{\numberline {6.2}Evanescence-wave Johnson noise}{56}{section.191}
-\contentsline {chapter}{\numberline {7}Flip flop measurements}{57}{chapter.192}
-\contentsline {chapter}{\numberline {8}Conclusion}{59}{chapter.193}
-\contentsline {chapter}{Bibliography}{61}{chapter*.194}
+\contentsline {chapter}{\numberline {1}Device fabrication and experimental methods}{1}{chapter.14}
+\contentsline {section}{\numberline {1.1}Device design}{2}{section.15}
+\contentsline {subsection}{\numberline {1.1.1}Flip-flop qubit}{2}{subsection.16}
+\contentsline {subsection}{\numberline {1.1.2}CPWR}{4}{subsection.19}
+\contentsline {section}{\numberline {1.2}Device fabrication}{4}{section.21}
+\contentsline {subsection}{\numberline {1.2.1}Silicon wafer}{4}{subsection.22}
+\contentsline {subsection}{\numberline {1.2.2}Nano-fabrication process - aluminium devices}{5}{subsection.24}
+\contentsline {subsection}{\numberline {1.2.3}Nano-fabrication process - superconducting devices}{7}{subsection.33}
+\contentsline {section}{\numberline {1.3}Device packaging}{8}{section.39}
+\contentsline {section}{\numberline {1.4}Experimental setup}{8}{section.41}
+\contentsline {subsection}{\numberline {1.4.1}Cables and filtering}{8}{subsection.42}
+\contentsline {paragraph}{Electron and nuclear qubit}{8}{section*.43}
+\contentsline {paragraph}{Flip flop qubit}{9}{section*.46}
+\contentsline {paragraph}{CPWR}{10}{section*.49}
+\contentsline {chapter}{Bibliography}{13}{chapter*.50}
