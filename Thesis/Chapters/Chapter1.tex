@@ -133,7 +133,8 @@ d
 \end{figure}
 
 
-\paragraph*{Electron qubit initialization and measurement}\footnote{The nuclear qubit can be mapped onto the electron with pulses discussed in the paragraph "Qubit control" and thus relies on the same principles.}
+\subsection{Electron qubit initialization and measurement}\label{sec:qubit_initMeas}
+\footnote{The nuclear qubit can be mapped onto the electron with pulses discussed in the paragraph "Qubit control" and thus relies on the same principles.}
 To successfully operate the spin system as qubits, one needs to be able to determine in which spin state it is at any given time. To achieve this, we convert the electron spin signal into a charge signal, known as spin to charge conversion and then electrically read out the charge signal with off the shelve electronics.
 
 To convert from spin to charge the spin states of the electron are tuned with bias voltages such that the Fermi level of a neighbouring reservoir lies in between both states like shown in figure \ref{fig:spintocharge}. In this case $\ket{\uparrow}$ will tunnel into the reservoir and be replenished by $\ket{\downarrow}$ while $\ket{\downarrow}$ will stay at the donor. As this tunnel process is a moving charge, we have now converted the spin signal into a charge signal. 
@@ -156,7 +157,7 @@ This measurement process can also be used to initialize the qubit into a well kn
 
 This has been first demonstrated on a single electron spin on a phosphorus donor in 2010 by A. Morello who showed single shot readout.\cite{Morello2010}
 
-\paragraph*{Qubit control} \label{sec:magRes}
+\paragraph*{Qubit control} \label{sec:qubit_control}
 To control the qubits we use magnetic resonance. As mentioned above, spins have a magnetic momentum and react to external magnetic fields. More precisely they precess around the axis of magnetization with a frequency $f_L$, the so called Larmor frequency. Now we apply a magnetic pulse oscillating with a frequency $f_{ac}$. In the reference frame of this oscillating  field, also known as the rotating frame, the spin appears to precess at a frequency $\Delta f=f_L-f_{ac}$.  If a magnetic drive with the same frequency as the Larmor frequency is applied perpendicular to $B_0^z$, it appears in the rotating frame as a static field of amplitude $B_1$ in the x-y plane. If the spin has been prepared in either $\ket{\uparrow}$ or $\ket{\downarrow}$, the spin will rotate around the axis of $B_1$ with frequency $f_{Rabi}=\gamma B_1$, the Rabi frequency, as these rotations are called Rabi oscillations. This is shown in figure \ref{fig:rabi}. 
 When this magnetic resonance technique is applied to the electron, we speak of electron spin resonance (ESR) and when it is applied to the nucleus of nuclear magnetic resonance (NMR).
 In figure \ref{fig:leveldiagram} these magnetic transitions and their resonance frequencies are illustrated. 

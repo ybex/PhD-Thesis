@@ -1,0 +1,2 @@
+open('combined_spectrum.fig');
+ h = gcf; %current figure handle

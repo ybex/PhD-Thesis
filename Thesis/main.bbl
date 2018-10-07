@@ -3782,6 +3782,347 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Motzoi2009}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MF}{%
+         family={Motzoi},
+         familyi={M\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GJM}{%
+         family={Gambetta},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Rebentrost},
+         familyi={R\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WFK}{%
+         family={Wilhelm},
+         familyi={W\bibinitperiod},
+         given={F.\bibnamedelima K.},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFGJMRP+1}
+    \strng{fullhash}{MFGJMRPWFK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In realizations of quantum computing, a two-level system (qubit) is often
+  singled out of the many levels of an anharmonic oscillator. In these cases,
+  simple qubit control fails on short time scales because of coupling to
+  leakage levels. We provide an easy to implement analytic formula that
+  inhibits this leakage from any single-control analog or pixelated pulse. It
+  is based on adding a second control that is proportional to the
+  time-derivative of the first. For realistic parameters of superconducting
+  qubits, this strategy reduces the error by an order of magnitude relative to
+  the state of the art, all based on smooth and feasible pulse shapes. These
+  results show that even weak anharmonicity is sufficient and in general not a
+  limiting factor for implementing quantum gates.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.103.110501
+    \endverb
+    \verb{eprint}
+    \verb 0901.0534
+    \endverb
+    \field{isbn}{0031-9007}
+    \field{issn}{00319007}
+    \field{number}{11}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{{Simple Pulses for Elimination of Leakage in Weakly Nonlinear
+  Qubits}}
+    \field{volume}{103}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Motzoi2009.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{eprinttype}{arXiv}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Ghosh2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GJ}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={Joydip},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CSN}{%
+         family={Coppersmith},
+         familyi={C\bibinitperiod},
+         given={S.\bibnamedelima N.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Friesen},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJCSNFM1}
+    \strng{fullhash}{GJCSNFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Many realizations of solid-state qubits involve couplings to leakage states
+  lying outside the computational subspace, posing a threat to high-fidelity
+  quantum gate operations. Mitigating leakage errors is especially challenging
+  when the coupling strength is unknown, e.g., when it is caused by noise. Here
+  we show that simple pulse sequences can be used to strongly suppress leakage
+  errors for a qubit embedded in a three-level system. As an example, we apply
+  our scheme to the recently proposed charge quadrupole (CQ) qubit for quantum
+  dots. These results provide a solution to a key challenge for fault-tolerant
+  quantum computing with solid-state elements.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.95.241307
+    \endverb
+    \verb{eprint}
+    \verb 1612.00568
+    \endverb
+    \field{issn}{24699969}
+    \field{number}{24}
+    \field{pages}{3\bibrangedash 7}
+    \field{title}{{Pulse sequences for suppressing leakage in single-qubit gate
+  operations}}
+    \field{volume}{95}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Ghosh2017.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{eprinttype}{arXiv}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Werschnik2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WJ}{%
+         family={Werschnik},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GEKU}{%
+         family={Gross},
+         familyi={G\bibinitperiod},
+         given={E.\bibnamedelima K.\bibnamedelima U.},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJGEKU1}
+    \strng{fullhash}{WJGEKU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The control of quantum dynamics via specially tailored laser pulses is a
+  long-standing goal in physics and chemistry. Partly, this dream has come
+  true, as sophisticated pulse shaping experiments allow to coherently control
+  product ratios of chemical reactions. The theoretical design of the laser
+  pulse to transfer an initial state to a given final state can be achieved
+  with the help of quantum optimal control theory (QOCT). This tutorial
+  provides an introduction to QOCT. It shows how the control equations defining
+  such an optimal pulse follow from the variation of a properly defined
+  functional. We explain the most successful schemes to solve these control
+  equations and show how to incorporate additional constraints in the pulse
+  design. The algorithms are then applied to simple quantum systems and the
+  obtained pulses are analyzed. Besides the traditional final-time control
+  methods, the tutorial also presents an algorithm and an example to handle
+  time-dependent control targets.%
+    }
+    \verb{doi}
+    \verb 10.1088/0953-4075/40/18/R01
+    \endverb
+    \verb{eprint}
+    \verb 0707.1883
+    \endverb
+    \field{title}{{Quantum Optimal Control Theory}}
+    \verb{url}
+    \verb http://arxiv.org/abs/0707.1883
+    \endverb
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Werschnik2007
+    \verb .pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Hill2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HCD}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Charles\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCD1}
+    \strng{fullhash}{HCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    There are many cases where the interaction between two qubits is not
+  precisely known, but single-qubit operations are available. In this Letter we
+  show how, regardless of an incomplete knowledge of the strength or form of
+  the interaction between two qubits, it is often possible to construct a
+  controlled-NOT gate which has arbitrarily high fidelity. In particular, we
+  show that oscillations in the strength of the exchange interaction in solid
+  state Si and Ge structures are correctable.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.98.180501
+    \endverb
+    \verb{eprint}
+    \verb 0610059v2
+    \endverb
+    \field{isbn}{0031-9007; 0031-9007}
+    \field{issn}{00319007}
+    \field{number}{18}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{{Robust controlled-NOT gates from almost any interaction}}
+    \field{volume}{98}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Hill2007.pdf:
+    \verb pdf
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{arXiv:quant-ph}
+    \field{year}{2007}
+  \endentry
+
+  \entry{VanDerSar2012}{article}{}
+    \name{author}{10}{}{%
+      {{hash=VT}{%
+         family={{Van Der Sar}},
+         familyi={V\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WZH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Z.\bibnamedelima H.},
+         giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BMS}{%
+         family={Blok},
+         familyi={B\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bernien},
+         familyi={B\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TTH}{%
+         family={Taminiau},
+         familyi={T\bibinitperiod},
+         given={T.\bibnamedelima H.},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TDM}{%
+         family={Toyli},
+         familyi={T\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LDA}{%
+         family={Lidar},
+         familyi={L\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ADD}{%
+         family={Awschalom},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hanson},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DVV}{%
+         family={Dobrovitski},
+         familyi={D\bibinitperiod},
+         given={V.\bibnamedelima V.},
+         giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{VTWZHBMS+1}
+    \strng{fullhash}{VTWZHBMSBHTTHTDMLDAADDHRDVV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Protecting the dynamics of coupled quantum systems from decoherence by the
+  environment is a key challenge for solid-state quantum information
+  processing. An idle qubit can be efficiently insulated from the outside world
+  via dynamical decoupling, as has recently been demonstrated for individual
+  solid-state qubits. However, protection of qubit coherence during a
+  multi-qubit gate poses a non-trivial problem: in general the decoupling
+  disrupts the inter-qubit dynamics, and hence conflicts with gate operation.
+  This problem is particularly salient for hybrid systems, wherein different
+  types of qubits evolve and decohere at vastly different rates. Here we
+  present the integration of dynamical decoupling into quantum gates for a
+  paradigmatic hybrid system, the electron-nuclear spin register. Our design
+  harnesses the internal resonance in the coupled-spin system to resolve the
+  conflict between gate operation and decoupling. We experimentally demonstrate
+  these gates on a two-qubit register in diamond operating at room temperature.
+  Quantum tomography reveals that the qubits involved in the gate operation are
+  protected as accurately as idle qubits. We further illustrate the power of
+  our design by executing Grover's quantum search algorithm, achieving
+  fidelities above 90{\%} even though the execution time exceeds the electron
+  spin dephasing time by two orders of magnitude. Our results directly enable
+  decoherence-protected interface gates between different types of promising
+  solid-state qubits. Ultimately, quantum gates with integrated decoupling may
+  enable reaching the accuracy threshold for fault-tolerant quantum information
+  processing with solid-state devices.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature10900
+    \endverb
+    \verb{eprint}
+    \verb 1202.4379
+    \endverb
+    \field{isbn}{1476-4687 (Electronic)$\backslash$n0028-0836 (Linking)}
+    \field{issn}{00280836}
+    \field{number}{7392}
+    \field{pages}{82\bibrangedash 86}
+    \field{title}{{Decoherence-protected quantum gates for a hybrid solid-state
+  spin register}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nature10900
+    \endverb
+    \field{volume}{484}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/VanDerSar2012
+    \verb .pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{eprinttype}{arXiv}
+    \field{year}{2012}
+  \endentry
+
   \entry{Morton2008}{article}{}
     \name{author}{10}{}{%
       {{hash=MJJL}{%
@@ -5141,364 +5482,6 @@
     \field{year}{2018}
   \endentry
 
-  \entry{Motzoi2009}{article}{}
-    \name{author}{4}{}{%
-      {{hash=MF}{%
-         family={Motzoi},
-         familyi={M\bibinitperiod},
-         given={F.},
-         giveni={F\bibinitperiod},
-      }}%
-      {{hash=GJM}{%
-         family={Gambetta},
-         familyi={G\bibinitperiod},
-         given={J.\bibnamedelima M.},
-         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=RP}{%
-         family={Rebentrost},
-         familyi={R\bibinitperiod},
-         given={P.},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=WFK}{%
-         family={Wilhelm},
-         familyi={W\bibinitperiod},
-         given={F.\bibnamedelima K.},
-         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MFGJMRP+1}
-    \strng{fullhash}{MFGJMRPWFK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    In realizations of quantum computing, a two-level system (qubit) is often
-  singled out of the many levels of an anharmonic oscillator. In these cases,
-  simple qubit control fails on short time scales because of coupling to
-  leakage levels. We provide an easy to implement analytic formula that
-  inhibits this leakage from any single-control analog or pixelated pulse. It
-  is based on adding a second control that is proportional to the
-  time-derivative of the first. For realistic parameters of superconducting
-  qubits, this strategy reduces the error by an order of magnitude relative to
-  the state of the art, all based on smooth and feasible pulse shapes. These
-  results show that even weak anharmonicity is sufficient and in general not a
-  limiting factor for implementing quantum gates.%
-    }
-    \verb{doi}
-    \verb 10.1103/PhysRevLett.103.110501
-    \endverb
-    \verb{eprint}
-    \verb 0901.0534
-    \endverb
-    \field{isbn}{0031-9007}
-    \field{issn}{00319007}
-    \field{number}{11}
-    \field{pages}{1\bibrangedash 4}
-    \field{title}{{Simple Pulses for Elimination of Leakage in Weakly Nonlinear
-  Qubits}}
-    \field{volume}{103}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Motzoi2009.pd
-    \verb f:pdf
-    \endverb
-    \field{journaltitle}{Physical Review Letters}
-    \field{eprinttype}{arXiv}
-    \field{year}{2009}
-  \endentry
-
-  \entry{Werschnik2007}{article}{}
-    \name{author}{2}{}{%
-      {{hash=WJ}{%
-         family={Werschnik},
-         familyi={W\bibinitperiod},
-         given={J.},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=GEKU}{%
-         family={Gross},
-         familyi={G\bibinitperiod},
-         given={E.\bibnamedelima K.\bibnamedelima U.},
-         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
-  U\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{WJGEKU1}
-    \strng{fullhash}{WJGEKU1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    The control of quantum dynamics via specially tailored laser pulses is a
-  long-standing goal in physics and chemistry. Partly, this dream has come
-  true, as sophisticated pulse shaping experiments allow to coherently control
-  product ratios of chemical reactions. The theoretical design of the laser
-  pulse to transfer an initial state to a given final state can be achieved
-  with the help of quantum optimal control theory (QOCT). This tutorial
-  provides an introduction to QOCT. It shows how the control equations defining
-  such an optimal pulse follow from the variation of a properly defined
-  functional. We explain the most successful schemes to solve these control
-  equations and show how to incorporate additional constraints in the pulse
-  design. The algorithms are then applied to simple quantum systems and the
-  obtained pulses are analyzed. Besides the traditional final-time control
-  methods, the tutorial also presents an algorithm and an example to handle
-  time-dependent control targets.%
-    }
-    \verb{doi}
-    \verb 10.1088/0953-4075/40/18/R01
-    \endverb
-    \verb{eprint}
-    \verb 0707.1883
-    \endverb
-    \field{title}{{Quantum Optimal Control Theory}}
-    \verb{url}
-    \verb http://arxiv.org/abs/0707.1883
-    \endverb
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Werschnik2007
-    \verb .pdf:pdf
-    \endverb
-    \field{eprinttype}{arXiv}
-    \field{year}{2007}
-  \endentry
-
-  \entry{Hill2007}{article}{}
-    \name{author}{1}{}{%
-      {{hash=HCD}{%
-         family={Hill},
-         familyi={H\bibinitperiod},
-         given={Charles\bibnamedelima D.},
-         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{HCD1}
-    \strng{fullhash}{HCD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    There are many cases where the interaction between two qubits is not
-  precisely known, but single-qubit operations are available. In this Letter we
-  show how, regardless of an incomplete knowledge of the strength or form of
-  the interaction between two qubits, it is often possible to construct a
-  controlled-NOT gate which has arbitrarily high fidelity. In particular, we
-  show that oscillations in the strength of the exchange interaction in solid
-  state Si and Ge structures are correctable.%
-    }
-    \verb{doi}
-    \verb 10.1103/PhysRevLett.98.180501
-    \endverb
-    \verb{eprint}
-    \verb 0610059v2
-    \endverb
-    \field{isbn}{0031-9007; 0031-9007}
-    \field{issn}{00319007}
-    \field{number}{18}
-    \field{pages}{1\bibrangedash 4}
-    \field{title}{{Robust controlled-NOT gates from almost any interaction}}
-    \field{volume}{98}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Hill2007.pdf:
-    \verb pdf
-    \endverb
-    \field{journaltitle}{Physical Review Letters}
-    \field{eprinttype}{arXiv}
-    \field{eprintclass}{arXiv:quant-ph}
-    \field{year}{2007}
-  \endentry
-
-  \entry{Curry2015}{article}{}
-    \name{author}{9}{}{%
-      {{hash=CMJ}{%
-         family={Curry},
-         familyi={C\bibinitperiod},
-         given={M.\bibnamedelima J.},
-         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=ETD}{%
-         family={England},
-         familyi={E\bibinitperiod},
-         given={T.\bibnamedelima D.},
-         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
-      }}%
-      {{hash=BNC}{%
-         family={Bishop},
-         familyi={B\bibinitperiod},
-         given={N.\bibnamedelima C.},
-         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-      {{hash=TEG}{%
-         family={Ten-Eyck},
-         familyi={T\bibinitperiod-E\bibinitperiod},
-         given={G.},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=WJR}{%
-         family={Wendt},
-         familyi={W\bibinitperiod},
-         given={J.\bibnamedelima R.},
-         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=PT}{%
-         family={Pluym},
-         familyi={P\bibinitperiod},
-         given={T.},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=LMP}{%
-         family={Lilly},
-         familyi={L\bibinitperiod},
-         given={M.\bibnamedelima P.},
-         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=CSM}{%
-         family={Carr},
-         familyi={C\bibinitperiod},
-         given={S.\bibnamedelima M.},
-         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=CMS}{%
-         family={Carroll},
-         familyi={C\bibinitperiod},
-         given={M.\bibnamedelima S.},
-         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CMJETDBNC+1}
-    \strng{fullhash}{CMJETDBNCTEGWJRPTLMPCSMCMS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    We examine a silicon-germanium heterojunction bipolar transistor (HBT) for
-  cryogenic pre-amplification of a single electron transistor (SET). The SET
-  current modulates the base current of the HBT directly. The HBT-SET circuit
-  is immersed in liquid helium, and its frequency response from low frequency
-  to several MHz is measured. The current gain and the noise spectrum with the
-  HBT result in a signal-to-noise-ratio (SNR) that is a factor of 10-100 larger
-  than without the HBT at lower frequencies. The transition frequency defined
-  by SNR = 1 has been extended by as much as a factor of 10 compared to without
-  the HBT amplification. The power dissipated by the HBT cryogenic
-  pre-amplifier is approximately 5 nW to 5 {\{}$\backslash$mu{\}}W for the
-  investigated range of operation. The circuit is also operated in a single
-  electron charge read-out configuration in the time-domain as a
-  proof-of-principle demonstration of the amplification approach for single
-  spin read-out.%
-    }
-    \verb{doi}
-    \verb 10.1063/1.4921308
-    \endverb
-    \verb{eprint}
-    \verb 1509.08201
-    \endverb
-    \field{isbn}{0003-6951 1077-3118}
-    \field{issn}{00036951}
-    \field{number}{20}
-    \field{title}{{Cryogenic preamplification of a single-electron-transistor
-  using a silicon-germanium heterojunction-bipolar-transistor}}
-    \field{volume}{106}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Curry2015.pdf
-    \verb :pdf
-    \endverb
-    \field{journaltitle}{Applied Physics Letters}
-    \field{eprinttype}{arXiv}
-    \field{year}{2015}
-  \endentry
-
-  \entry{Fowler2012}{article}{}
-    \name{author}{4}{}{%
-      {{hash=FAG}{%
-         family={Fowler},
-         familyi={F\bibinitperiod},
-         given={Austin\bibnamedelima G},
-         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
-      }}%
-      {{hash=MM}{%
-         family={Mariantoni},
-         familyi={M\bibinitperiod},
-         given={Matteo},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=MJM}{%
-         family={Martinis},
-         familyi={M\bibinitperiod},
-         given={John\bibnamedelima M},
-         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=CAN}{%
-         family={Cleland},
-         familyi={C\bibinitperiod},
-         given={Andrew\bibnamedelima N},
-         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{FAGMMMJM+1}
-    \strng{fullhash}{FAGMMMJMCAN1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \verb{doi}
-    \verb 10.1103/PhysRevA.86.032324
-    \endverb
-    \field{title}{{Surface codes : Towards practical large-scale quantum
-  computation}}
-    \field{volume}{032324}
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Fowler2015.pd
-    \verb f:pdf
-    \endverb
-    \field{year}{2012}
-  \endentry
-
-  \entry{Steane1996}{article}{}
-    \name{author}{1}{}{%
-      {{hash=SA}{%
-         family={Steane},
-         familyi={S\bibinitperiod},
-         given={Andrew},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SA1}
-    \strng{fullhash}{SA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    The concept of multiple particle interference is discussed, using insights
-  provided by the classical theory of error correcting codes. This leads to a
-  discussion of error correction in a quantum communication channel or a
-  quantum computer. Methods of error correction in the quantum regime are
-  presented, and their limitations assessed. A quantum channel can recover from
-  arbitrary decoherence of x qubits if K bits of quantum information are
-  encoded using n quantum bits, where K/n can be greater than 1-2 H(2x/n), but
-  must be less than 1 - 2 H(x/n). This implies exponential reduction of
-  decoherence with only a polynomial increase in the computing resources
-  required. Therefore quantum computation can be made free of errors in the
-  presence of physically realistic levels of decoherence. The methods also
-  allow isolation of quantum communication from noise and evesdropping (quantum
-  privacy amplification).%
-    }
-    \verb{doi}
-    \verb 10.1098/rspa.1996.0136
-    \endverb
-    \verb{eprint}
-    \verb 9601029
-    \endverb
-    \field{isbn}{1364-5021}
-    \field{issn}{1364-5021}
-    \field{number}{1982}
-    \field{title}{{Multiple Particle Interference and Quantum Error
-  Correction}}
-    \verb{url}
-    \verb http://arxiv.org/abs/quant-ph/9601029{\%}0Ahttp://dx.doi.org/10.1098/
-    \verb rspa.1996.0136
-    \endverb
-    \verb{file}
-    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Steane1996.pd
-    \verb f:pdf
-    \endverb
-    \field{eprinttype}{arXiv}
-    \field{eprintclass}{quant-ph}
-    \field{year}{1996}
-  \endentry
-
   \entry{Knill2005}{article}{}
     \name{author}{1}{}{%
       {{hash=KE}{%
@@ -5631,6 +5614,534 @@
     \verb 7.307 (QEC).pdf:pdf
     \endverb
     \field{journaltitle}{Reviews of Modern Physics}
+    \field{eprinttype}{arXiv}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Li2018a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BSC}{%
+         family={Benjamin},
+         familyi={B\bibinitperiod},
+         given={Simon\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{LYBSC1}
+    \strng{fullhash}{LYBSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Building a quantum computer with a one-dimensional (1D) architecture,
+  instead of the typical two-dimensional (2D) layout, could be significantly
+  less difficult experimentally. However such a restricted topology
+  necessitates a large overhead for shuffling qubits and consequently the fault
+  tolerance threshold is far lower than in 2D architectures. Here we identify a
+  middle ground: a 1D segmented chain which is a linear array of segments, each
+  of which is a well-connected zone with all-to-all connectivity. The
+  architecture is relevant to both ion trap and solid-state systems. We
+  establish that fault tolerance can be achieved either by a surface code
+  alone, or via an additional concatenated four-qubit gauge code. We find that
+  the fault tolerance threshold is 0.12{\%}, a feasible error rate with today's
+  technology, using 15-qubit segments, while larger segments are superior. For
+  35 or more qubits per segment one can achieve computation on a meaningful
+  scale with today's state-of-the-art fidelities without the use of the upper
+  concatenation layer, thus minimising the overall device size.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41534-018-0074-2
+    \endverb
+    \verb{eprint}
+    \verb 1702.05657
+    \endverb
+    \field{issn}{2056-6387}
+    \field{number}{1}
+    \field{pages}{25}
+    \field{title}{{One-dimensional quantum computing with a ‘segmented chain'
+  is feasible with today's gate fidelities}}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41534-018-0074-2
+    \endverb
+    \field{volume}{4}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Li2018b.pdf:p
+    \verb df
+    \endverb
+    \field{journaltitle}{npj Quantum Information}
+    \field{eprinttype}{arXiv}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Fowler2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FAG}{%
+         family={Fowler},
+         familyi={F\bibinitperiod},
+         given={Austin\bibnamedelima G},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mariantoni},
+         familyi={M\bibinitperiod},
+         given={Matteo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MJM}{%
+         family={Martinis},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CAN}{%
+         family={Cleland},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima N},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FAGMMMJM+1}
+    \strng{fullhash}{FAGMMMJMCAN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.86.032324
+    \endverb
+    \field{title}{{Surface codes : Towards practical large-scale quantum
+  computation}}
+    \field{volume}{032324}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Fowler2015.pd
+    \verb f:pdf
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{Curry2015}{article}{}
+    \name{author}{9}{}{%
+      {{hash=CMJ}{%
+         family={Curry},
+         familyi={C\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ETD}{%
+         family={England},
+         familyi={E\bibinitperiod},
+         given={T.\bibnamedelima D.},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BNC}{%
+         family={Bishop},
+         familyi={B\bibinitperiod},
+         given={N.\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=TEG}{%
+         family={Ten-Eyck},
+         familyi={T\bibinitperiod-E\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WJR}{%
+         family={Wendt},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Pluym},
+         familyi={P\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LMP}{%
+         family={Lilly},
+         familyi={L\bibinitperiod},
+         given={M.\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=CSM}{%
+         family={Carr},
+         familyi={C\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CMS}{%
+         family={Carroll},
+         familyi={C\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CMJETDBNC+1}
+    \strng{fullhash}{CMJETDBNCTEGWJRPTLMPCSMCMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We examine a silicon-germanium heterojunction bipolar transistor (HBT) for
+  cryogenic pre-amplification of a single electron transistor (SET). The SET
+  current modulates the base current of the HBT directly. The HBT-SET circuit
+  is immersed in liquid helium, and its frequency response from low frequency
+  to several MHz is measured. The current gain and the noise spectrum with the
+  HBT result in a signal-to-noise-ratio (SNR) that is a factor of 10-100 larger
+  than without the HBT at lower frequencies. The transition frequency defined
+  by SNR = 1 has been extended by as much as a factor of 10 compared to without
+  the HBT amplification. The power dissipated by the HBT cryogenic
+  pre-amplifier is approximately 5 nW to 5 {\{}$\backslash$mu{\}}W for the
+  investigated range of operation. The circuit is also operated in a single
+  electron charge read-out configuration in the time-domain as a
+  proof-of-principle demonstration of the amplification approach for single
+  spin read-out.%
+    }
+    \verb{doi}
+    \verb 10.1063/1.4921308
+    \endverb
+    \verb{eprint}
+    \verb 1509.08201
+    \endverb
+    \field{isbn}{0003-6951 1077-3118}
+    \field{issn}{00036951}
+    \field{number}{20}
+    \field{title}{{Cryogenic preamplification of a single-electron-transistor
+  using a silicon-germanium heterojunction-bipolar-transistor}}
+    \field{volume}{106}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Curry2015.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Applied Physics Letters}
+    \field{eprinttype}{arXiv}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Muhonen2015}{article}{}
+    \name{author}{12}{}{%
+      {{hash=MJT}{%
+         family={Muhonen},
+         familyi={M\bibinitperiod},
+         given={J\bibnamedelima T},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Laucht},
+         familyi={L\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=SS}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=DJP}{%
+         family={Dehollain},
+         familyi={D\bibinitperiod},
+         given={J\bibnamedelima P},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kalra},
+         familyi={K\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=HFE}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={F\bibnamedelima E},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Freer},
+         familyi={F\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=IKM}{%
+         family={Itoh},
+         familyi={I\bibinitperiod},
+         given={K\bibnamedelima M},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={D\bibnamedelima N},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={J\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={A\bibnamedelima S},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{MJTLASS+1}
+    \strng{fullhash}{MJTLASSDJPKRHFEFSIKMJDNMJCDASMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1088/0953-8984/27/15/154205
+    \endverb
+    \field{title}{{Quantifying the quantum gate fidelity of single-atom spin
+  qubits in silicon by randomized benchmarking}}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Muhonen2015.p
+    \verb df:pdf
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{Zwanenburg2013}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZFA}{%
+         family={Zwanenburg},
+         familyi={Z\bibinitperiod},
+         given={Floris\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SMY}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Michelle\bibnamedelima Y.},
+         giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=HLC}{%
+         family={Hollenberg},
+         familyi={H\bibinitperiod},
+         given={Lloyd\bibnamedelima C.L.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Klimeck},
+         familyi={K\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rogge},
+         familyi={R\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CSN}{%
+         family={Coppersmith},
+         familyi={C\bibinitperiod},
+         given={Susan\bibnamedelima N.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=EMA}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={Mark\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZFADASMA+1}
+    \strng{fullhash}{ZFADASMASMYHLCKGRSCSNEMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This review describes recent groundbreaking results in Si, Si=SiGe, and
+  dopant-based quantum dots, and it highlights the remarkable advances in
+  Si-based quantum physics that have occurred in the past few years. This
+  progress has been possible thanks to materials development of Si quantum
+  devices, and the physical understanding of quantum effects in silicon. Recent
+  critical steps include the isolation of single electrons, the observation of
+  spin blockade, and single-shot readout of individual electron spins in both
+  dopants and gated quantum dots in Si. Each of these results has come with
+  physics that was not anticipated from previous work in other material
+  systems. These advances underline the significant progress toward the
+  realization of spin quantum bits in a material with a long spin coherence
+  time, crucial for quantum computation and spintronics.%
+    }
+    \verb{doi}
+    \verb 10.1103/RevModPhys.85.961
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1206.5202v1
+    \endverb
+    \field{isbn}{0034-6861$\backslash$n1539-0756}
+    \field{issn}{00346861}
+    \field{number}{3}
+    \field{pages}{961\bibrangedash 1019}
+    \field{title}{{Silicon quantum electronics}}
+    \field{volume}{85}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/Zwanenburg2
+    \verb 013{\_}RevModPhys.85.961{\_}SiQDRev.pdf:pdf
+    \endverb
+    \field{journaltitle}{Reviews of Modern Physics}
+    \field{eprinttype}{arXiv}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Laucht2015}{article}{}
+    \name{author}{15}{}{%
+      {{hash=LA}{%
+         family={Laucht},
+         familyi={L\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MJT}{%
+         family={Muhonen},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MFA}{%
+         family={Mohiyaddin},
+         familyi={M\bibinitperiod},
+         given={F.\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kalra},
+         familyi={K\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DJP}{%
+         family={Dehollain},
+         familyi={D\bibinitperiod},
+         given={J.\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Freer},
+         familyi={F\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HFE}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={F.\bibnamedelima E.},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Veldhorst},
+         familyi={V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rahman},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Klimeck},
+         familyi={K\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=IKM}{%
+         family={Itoh},
+         familyi={I\bibinitperiod},
+         given={K.\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={D.\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={McCallum},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Dzurak},
+         familyi={D\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morello},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LAMJTMFA+1}
+    \strng{fullhash}{LAMJTMFAKRDJPFSHFEVMRRKGIKMJDNMJCDASMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Large-scale quantum computers must be built upon quantum bits that are both
+  highly coherent and locally controllable. We demonstrate the quantum control
+  of the electron and the nuclear spin of a single (31)P atom in silicon, using
+  a continuous microwave magnetic field together with nanoscale electrostatic
+  gates. The qubits are tuned into resonance with the microwave field by a
+  local change in electric field, which induces a Stark shift of the qubit
+  energies. This method, known as A-gate control, preserves the excellent
+  coherence times and gate fidelities of isolated spins, and can be extended to
+  arbitrarily many qubits without requiring multiple microwave sources.%
+    }
+    \verb{doi}
+    \verb 10.1126/sciadv.1500022
+    \endverb
+    \verb{eprint}
+    \verb 1503.05985
+    \endverb
+    \field{isbn}{2375-2548}
+    \field{issn}{2375-2548}
+    \field{number}{3}
+    \field{pages}{e1500022\bibrangedash e1500022}
+    \field{title}{{Electrically controlling single-spin qubits in a continuous
+  microwave field}}
+    \verb{url}
+    \verb http://advances.sciencemag.org/cgi/doi/10.1126/sciadv.1500022
+    \endverb
+    \field{volume}{1}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/SiQubits/Morello/Lau
+    \verb cht2015{\_}ElectricalControl.pdf:pdf
+    \endverb
+    \field{journaltitle}{Science Advances}
     \field{eprinttype}{arXiv}
     \field{year}{2015}
   \endentry

@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{14}%
+\begin{thebibliography}{28}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -180,9 +180,68 @@
   {pages} {1} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Johnson}(2018)}]{Johnson2018}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Johnson}},\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {ArXiv}\ }\textbf {\bibinfo
-  {volume} {187}} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Johnson}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {ArXiv}\ }\textbf {\bibinfo {volume} {187}} (\bibinfo {year}
+  {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Serway}(1998)}]{Serway1998}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Serway}},\ }\href@noop {} {\emph {\bibinfo {title} {{Principles of
+  Physics}}}}\ (\bibinfo  {publisher} {Saunders College Pub.},\ \bibinfo {year}
+  {1998})\ p.\ \bibinfo {pages} {602}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Johnson}(1928)}]{Johnson1928}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~B.}\ \bibnamefont
+  {Johnson}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review}\ }\textbf {\bibinfo {volume} {32}} (\bibinfo {year}
+  {1928})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Nyquist}(1928)}]{Nyquist1928}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Nyquist}},\ }\href {\doibase 10.1103/PhysRev.32.110} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review}\ }\textbf {\bibinfo {volume} {32}},\
+  \bibinfo {pages} {110} (\bibinfo {year} {1928})},\ \Eprint
+  {http://arxiv.org/abs/arXiv:1011.1669v3} {arXiv:arXiv:1011.1669v3}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Callen}\ and\ \citenamefont
+  {Welton}(1951)}]{Callen1951}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.~B.}\ \bibnamefont
+  {Callen}}\ and\ \bibinfo {author} {\bibfnamefont {T.~A.}\ \bibnamefont
+  {Welton}},\ }\href {\doibase 10.1103/PhysRev.83.34} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review}\ }\textbf {\bibinfo {volume} {83}},\
+  \bibinfo {pages} {34} (\bibinfo {year} {1951})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Volokitin}\ and\ \citenamefont
+  {Persson}(2007)}]{Volokitin2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~I.}\ \bibnamefont
+  {Volokitin}}\ and\ \bibinfo {author} {\bibfnamefont {B.~N.}\ \bibnamefont
+  {Persson}},\ }\href {\doibase 10.1103/RevModPhys.79.1291} {\bibfield
+  {journal} {\bibinfo  {journal} {Reviews of Modern Physics}\ }\textbf
+  {\bibinfo {volume} {79}},\ \bibinfo {pages} {1291} (\bibinfo {year}
+  {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Henkel}\ \emph {et~al.}(1999)\citenamefont {Henkel},
+  \citenamefont {P{\"{o}}tting},\ and\ \citenamefont {Wilkens}}]{Henkel1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Henkel}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {P{\"{o}}tting}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Wilkens}},\ }\href@noop {} {\ \textbf {\bibinfo {volume} {387}},\ \bibinfo
+  {pages} {379} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Poudel}\ \emph {et~al.}(2013)\citenamefont {Poudel},
+  \citenamefont {Langsjoen}, \citenamefont {Vavilov},\ and\ \citenamefont
+  {Joynt}}]{Poudel2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Poudel}}, \bibinfo {author} {\bibfnamefont {L.~S.}\ \bibnamefont
+  {Langsjoen}}, \bibinfo {author} {\bibfnamefont {M.~G.}\ \bibnamefont
+  {Vavilov}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Joynt}},\ }\href {\doibase 10.1103/PhysRevB.87.045301} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review B - Condensed Matter and Materials
+  Physics}\ }\textbf {\bibinfo {volume} {87}} (\bibinfo {year} {2013}),\
+  10.1103/PhysRevB.87.045301},\ \Eprint {http://arxiv.org/abs/1211.3983}
+  {arXiv:1211.3983} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Premakumar}\ \emph {et~al.}(2017)\citenamefont
   {Premakumar}, \citenamefont {Vavilov},\ and\ \citenamefont
   {Joynt}}]{Premakumar2017}%
@@ -193,6 +252,36 @@
   {Joynt}},\ }\href {\doibase 10.1088/2058-9565/aa8e15} {\  (\bibinfo {year}
   {2017}),\ 10.1088/2058-9565/aa8e15},\ \Eprint
   {http://arxiv.org/abs/1705.01165} {arXiv:1705.01165} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Van Donkelaar}}\ \emph {et~al.}(2015)\citenamefont
+  {{Van Donkelaar}}, \citenamefont {Yang}, \citenamefont {Alves}, \citenamefont
+  {McCallum}, \citenamefont {Hougaard}, \citenamefont {Johnson}, \citenamefont
+  {Hudson}, \citenamefont {Dzurak}, \citenamefont {Morello}, \citenamefont
+  {Spemann},\ and\ \citenamefont {Jamieson}}]{VanDonkelaar2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {{Van
+  Donkelaar}}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Yang}},
+  \bibinfo {author} {\bibfnamefont {A.~D.}\ \bibnamefont {Alves}}, \bibinfo
+  {author} {\bibfnamefont {J.~C.}\ \bibnamefont {McCallum}}, \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Hougaard}}, \bibinfo {author}
+  {\bibfnamefont {B.~C.}\ \bibnamefont {Johnson}}, \bibinfo {author}
+  {\bibfnamefont {F.~E.}\ \bibnamefont {Hudson}}, \bibinfo {author}
+  {\bibfnamefont {A.~S.}\ \bibnamefont {Dzurak}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Morello}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Spemann}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {D.~N.}\ \bibnamefont {Jamieson}},\ }\href {\doibase
+  10.1088/0953-8984/27/15/154204} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Physics Condensed Matter}\ }\textbf {\bibinfo {volume} {27}}
+  (\bibinfo {year} {2015}),\ 10.1088/0953-8984/27/15/154204}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Thorbeck}\ and\ \citenamefont
+  {Zimmerman}(2015)}]{Thorbeck2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Thorbeck}}\ and\ \bibinfo {author} {\bibfnamefont {N.~M.}\ \bibnamefont
+  {Zimmerman}},\ }\href {\doibase 10.1063/1.4928320} {\bibfield  {journal}
+  {\bibinfo  {journal} {AIP Advances}\ }\textbf {\bibinfo {volume} {5}}
+  (\bibinfo {year} {2015}),\ 10.1063/1.4928320},\ \Eprint
+  {http://arxiv.org/abs/1409.3549} {arXiv:1409.3549} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Laucht}\ \emph {et~al.}(2015)\citenamefont {Laucht},
   \citenamefont {Muhonen}, \citenamefont {Mohiyaddin}, \citenamefont {Kalra},
   \citenamefont {Dehollain}, \citenamefont {Freer}, \citenamefont {Hudson},
@@ -218,6 +307,33 @@
   {\bibinfo  {journal} {Science Advances}\ }\textbf {\bibinfo {volume} {1}},\
   \bibinfo {pages} {e1500022} (\bibinfo {year} {2015})},\ \Eprint
   {http://arxiv.org/abs/1503.05985} {arXiv:1503.05985} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Asaad}(2018)}]{Asaad2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Asaad}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {ArXiv}\
+  }\textbf {\bibinfo {volume} {187}} (\bibinfo {year} {2018})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Tahan}\ \emph {et~al.}(2002)\citenamefont {Tahan},
+  \citenamefont {Friesen},\ and\ \citenamefont {Joynt}}]{Tahan2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Tahan}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Friesen}}, \
+  and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Joynt}},\ }\href
+  {\doibase 10.1103/PhysRevB.66.035314} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review B - Condensed Matter and Materials Physics}\
+  }\textbf {\bibinfo {volume} {66}},\ \bibinfo {pages} {1} (\bibinfo {year}
+  {2002})},\ \Eprint {http://arxiv.org/abs/0203319} {arXiv:0203319 [cond-mat]}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Golovach}\ and\ \citenamefont
+  {Loss}(2004)}]{Golovach2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.~N.}\ \bibnamefont
+  {Golovach}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Loss}},\ }\href {\doibase 10.1103/PhysRevB.69.245327} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review B - Condensed Matter and Materials
+  Physics}\ }\textbf {\bibinfo {volume} {69}},\ \bibinfo {pages} {1} (\bibinfo
+  {year} {2004})},\ \Eprint {http://arxiv.org/abs/0308241} {arXiv:0308241
+  [cond-mat]} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {MacLean}\ \emph {et~al.}(2007)\citenamefont
   {MacLean}, \citenamefont {Amasha}, \citenamefont {Radu}, \citenamefont
   {Zumb{\"{u}}hl}, \citenamefont {Kastner}, \citenamefont {Hanson},\ and\
@@ -235,21 +351,56 @@
   {pages} {1} (\bibinfo {year} {2007})},\ \Eprint
   {http://arxiv.org/abs/0610679} {arXiv:0610679 [cond-mat]} \BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {Amasha}\ \emph {et~al.}(2008)\citenamefont {Amasha},
-  \citenamefont {MacLean}, \citenamefont {Radu}, \citenamefont {Zumb{\"{u}}hl},
-  \citenamefont {Kastner}, \citenamefont {Hanson},\ and\ \citenamefont
-  {Gossard}}]{Amasha2008}%
+\bibitem [{\citenamefont {Qassemi}\ \emph {et~al.}(2009)\citenamefont
+  {Qassemi}, \citenamefont {Coish},\ and\ \citenamefont
+  {Wilhelm}}]{Qassemi2009}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Amasha}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {MacLean}},
-  \bibinfo {author} {\bibfnamefont {I.~P.}\ \bibnamefont {Radu}}, \bibinfo
-  {author} {\bibfnamefont {D.~M.}\ \bibnamefont {Zumb{\"{u}}hl}}, \bibinfo
-  {author} {\bibfnamefont {M.~A.}\ \bibnamefont {Kastner}}, \bibinfo {author}
-  {\bibfnamefont {M.~P.}\ \bibnamefont {Hanson}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {A.~C.}\ \bibnamefont {Gossard}},\ }\href {\doibase
-  10.1103/PhysRevB.78.041306} {\bibfield  {journal} {\bibinfo  {journal}
-  {Physical Review B - Condensed Matter and Materials Physics}\ }\textbf
-  {\bibinfo {volume} {78}},\ \bibinfo {pages} {1} (\bibinfo {year} {2008})},\
-  \Eprint {http://arxiv.org/abs/0709.1730} {arXiv:0709.1730} \BibitemShut
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Qassemi}}, \bibinfo {author} {\bibfnamefont {W.~A.}\ \bibnamefont {Coish}},
+  \ and\ \bibinfo {author} {\bibfnamefont {F.~K.}\ \bibnamefont {Wilhelm}},\
+  }\href {\doibase 10.1103/PhysRevLett.102.176806} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume}
+  {102}},\ \bibinfo {pages} {1} (\bibinfo {year} {2009})},\ \Eprint
+  {http://arxiv.org/abs/0812.2957} {arXiv:0812.2957} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lai}\ \emph {et~al.}(2011)\citenamefont {Lai},
+  \citenamefont {Lim}, \citenamefont {Yang}, \citenamefont {Zwanenburg},
+  \citenamefont {Coish}, \citenamefont {Qassemi}, \citenamefont {Morello},\
+  and\ \citenamefont {Dzurak}}]{Lai2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~S.}\ \bibnamefont
+  {Lai}}, \bibinfo {author} {\bibfnamefont {W.~H.}\ \bibnamefont {Lim}},
+  \bibinfo {author} {\bibfnamefont {C.~H.}\ \bibnamefont {Yang}}, \bibinfo
+  {author} {\bibfnamefont {F.~A.}\ \bibnamefont {Zwanenburg}}, \bibinfo
+  {author} {\bibfnamefont {W.~A.}\ \bibnamefont {Coish}}, \bibinfo {author}
+  {\bibfnamefont {F.}~\bibnamefont {Qassemi}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Morello}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {A.~S.}\ \bibnamefont {Dzurak}},\ }\href {\doibase 10.1038/srep00110}
+  {\bibfield  {journal} {\bibinfo  {journal} {Scientific Reports}\ }\textbf
+  {\bibinfo {volume} {1}} (\bibinfo {year} {2011}),\ 10.1038/srep00110},\
+  \Eprint {http://arxiv.org/abs/1012.1410} {arXiv:1012.1410} \BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Otsuka}\ \emph {et~al.}(2017)\citenamefont {Otsuka},
+  \citenamefont {Nakajima}, \citenamefont {Delbecq}, \citenamefont {Amaha},
+  \citenamefont {Yoneda}, \citenamefont {Takeda}, \citenamefont {Allison},
+  \citenamefont {Stano}, \citenamefont {Noiri}, \citenamefont {Ito},
+  \citenamefont {Loss}, \citenamefont {Ludwig}, \citenamefont {Wieck},\ and\
+  \citenamefont {Tarucha}}]{Otsuka2017}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Otsuka}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Nakajima}},
+  \bibinfo {author} {\bibfnamefont {M.~R.}\ \bibnamefont {Delbecq}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Amaha}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Yoneda}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Takeda}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Allison}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Stano}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Noiri}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Ito}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Loss}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Ludwig}},
+  \bibinfo {author} {\bibfnamefont {A.~D.}\ \bibnamefont {Wieck}}, \ and\
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Tarucha}},\ }\href
+  {\doibase 10.1038/s41598-017-12217-6} {\bibfield  {journal} {\bibinfo
+  {journal} {Scientific Reports}\ }\textbf {\bibinfo {volume} {7}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2017})},\ \Eprint
+  {http://arxiv.org/abs/1608.07646} {arXiv:1608.07646} \BibitemShut {NoStop}%
 \end{thebibliography}%
