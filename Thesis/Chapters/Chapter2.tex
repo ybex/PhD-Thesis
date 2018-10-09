@@ -2,24 +2,45 @@
 
 \chapter{The flip flop qubit} % Main chapter title
 
-\label{Chapter2} % 
+\label{Chapter2}
 
-\HRule
-\vspace{0.5cm} \hspace{2cm}
-\small
-\hangindent=4cm
-\\
-        ``\emph{Scalability is the future}"
-\\ \\
-\hangindent=4cm
+\noindent\hrulefill
+\vspace{0.5cm} %\hspace{2cm}
+%\small
 \begin{flushright}
---? \\
+        ``\emph{Physics is the only profession in which prophecy is not only accurate but routine. }"
+\\ 
+--Neil deGrasse Tyson \\
 \end{flushright}
 
 \vspace{0.5cm}
 
-\noindent \HRule
+
+\noindent\hrulefill
+\vspace{0.5cm} %\hspace{2cm}
+\\
+%\small
+\hangindent=4cm
+%\noindent
+\\
+The demand for high-fidelity, low power long-distant qubit interactions in silicon is every increasing. In this chapter we introduce the flip-flop qubit, a combination of the electron-nuclear spin states of a phosphorus donor that can be controlled by microwave electric fields and meets these demands. A second-order electric dipole-dipole interaction allows for robust two-qubit coupling, at separations of hundreds of nanometers and coupling to microwave resonators that can extend qubit entanglement to macroscopic distances. We predict gate fidelities within fault-tolerance thresholds using realistic noise models, opening up a pathway to a scalable silicon quantum computer. 
+\\ \\
+\scriptsize
+\hangindent=4cm
+A condensed version of the work presented in this chapter has been published in:\\
+G. Tosi, F. A. Mohiyaddin, V. Schmitt, \textbf{S. Tenberg}, R. Rahman,
+G. Klimeck, A. Morello. ``Silicon quantum processor with robust long-distance qubit couplings.'' \textit{Nature communications} vol. 8, 450 (2017).\\
+\\
+\footnotesize
+\hangindent=4cm
+\textbf{The author acknowledges G. Tosi for the conception of the idea and the bulk of the simulation work, F. A. Mohiyaddin for tight-binding simulations and electric modelling and V. Schmitt for discussions about noise influences.}\\
+
+%\vspace{0.5cm}
+
+\noindent \hrulefill
 \clearpage
+
+\normalsize
 
 As discussed in chapter \ref{sec:scaleup}, new ideas for long range, scalable coupling are necessary to advance silicon quantum computing. This chapter presents a new type of qubit that relies on electric dipole interactions and aims to answer this demand. 
 
@@ -328,7 +349,7 @@ where $N_n$ is the number of sampled $E_z^n$ and $\epsilon_{\rm ff}^n$ is calcul
 
 The rates can be as low as $1/T_2^{\ast} \approx 3$~kHz when at the second order clock transition. This is comparable to the dephasing of $1/T_2^{\ast} \approx 1$~kHz due to magnetic noise in our qubits \cite{Muhonen2014}. 
 
-\subsection{Relaxation}
+\subsection{Relaxation} \label{sec:ff_relax}
 
 Relaxation can also inhibit qubit performance (see chapter \ref{sec:decoherence}). In silicon bulk donors the electron spin lattice relaxation time is $T_1\gg 1\,$s due to very weak coupling between the phonons and the spins. However, according to Ref. \cite{Boross2016},  for the charge and the flip-flop qubit the difference in valley population between the interface and donor state causes a potential energy difference that leads to an effective electron-phonon coupling and to relaxation, even for a uniform phonon-induced relaxation. Basically, the relaxation is "valley-enhanced" due to the non-trivial valley structure of the electron-phonon interaction. The charge qubit relaxation rate is $1/T_{1,c}\approx 0.49\,$MHz at the ionization point and increases with higher $\epsilon_0$. 
 In the dispersive regime $\delta_{\rm so}\gg g_{\rm so}$ the flip-flop relaxation directly relates to the charge qubit relaxation. It is equal to the amount of charge excited state in the flip-flop eigenstates times the charge qubit relaxation rate which gives

@@ -5823,6 +5823,362 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Jani2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=J}{%
+         family={Jani},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{J1}
+    \strng{fullhash}{J1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Coplanar waveguide calculator}}
+    \verb{url}
+    \verb http://janielectronics.com/szamitasok/Transmission Line/Coplanar Wave
+    \verb guide Calculator/janilab.php
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{PalaciosLaloy2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PLA}{%
+         family={Palacios-Laloy},
+         familyi={P\bibinitperiod-L\bibinitperiod},
+         given={Agustin},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PLA1}
+    \strng{fullhash}{PLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb tel.archives-ouvertes.fr:tel-00815078
+    \endverb
+    \field{title}{{Superconducting qubit in a resonator : test of the
+  Leggett-Garg inequality and single-shot readout Agust{\'{i}}n}}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/CQED/Palacios-Laloy{
+    \verb \_}Thesis.pdf:pdf
+    \endverb
+    \field{journaltitle}{PhD Thesis}
+    \field{year}{2010}
+  \endentry
+
+  \entry{McCamey2005}{article}{}
+    \name{author}{6}{}{%
+      {{hash=MDR}{%
+         family={McCamey},
+         familyi={M\bibinitperiod},
+         given={D.\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Francis},
+         familyi={F\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={McCallum},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HAR}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={A.\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Greentree},
+         familyi={G\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CRG}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={R.\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDRFMMJC+1}
+    \strng{fullhash}{MDRFMMJCHARGADCRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Using silicon MOSFETs with thin (5 nm) thermally grown SiO2 gate
+  dielectrics, we characterize the density of electrically active traps at low
+  temperature after 16 keV phosphorus ion implantation through the oxide. We
+  find that, after rapid thermal annealing at 1000 degrees C for 5 s, each
+  implanted P ion contributes an additional 0.08 +/- 0.03 electrically active
+  traps, whilst no increase in the number of traps is seen for comparable
+  silicon implants. This result shows that the additional traps are ionized P
+  donors, and not damage due to the implantation process. We also find, using
+  the room temperature threshold voltage shift, that the electrical activation
+  of donors at an implant density of 2 x 10(12) cm(-2) is similar to 100{\%}.%
+    }
+    \verb{doi}
+    \verb 10.1088/0268-1242/20/5/007
+    \endverb
+    \field{isbn}{0268-1242}
+    \field{issn}{02681242}
+    \field{number}{5}
+    \field{pages}{363\bibrangedash 368}
+    \field{title}{{Donor activation and damage in Si-SiO2from low-dose,
+  low-energy ion implantation studied via electrical transport in MOSFETs}}
+    \field{volume}{20}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/McCamey2005.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Semiconductor Science and Technology}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Brower1988}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BKL}{%
+         family={Brower},
+         familyi={B\bibinitperiod},
+         given={K.\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BKL1}
+    \strng{fullhash}{BKL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.100620
+    \endverb
+    \field{issn}{0003-6951}
+    \field{number}{6}
+    \field{pages}{508\bibrangedash 510}
+    \field{title}{{Passivation of paramagnetic Si‐SiO
+  {\textless}sub{\textgreater}2{\textless}/sub{\textgreater} interface states
+  with molecular hydrogen}}
+    \verb{url}
+    \verb http://aip.scitation.org/doi/10.1063/1.100620
+    \endverb
+    \field{volume}{53}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Brower1988.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Applied Physics Letters}
+    \field{year}{1988}
+  \endentry
+
+  \entry{BlueforsManual}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={BlueFors},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{No Title}}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Johnson1928}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JJB}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JJB1}
+    \strng{fullhash}{JJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Electricity j.}}
+    \field{volume}{32}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Johson1928.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Physical Review}
+    \field{year}{1928}
+  \endentry
+
+  \entry{Nyquist1928}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NH}{%
+         family={Nyquist},
+         familyi={N\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NH1}
+    \strng{fullhash}{NH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The electromotive force due to thermal agitation in conductors is
+  calculated by means of principles in thermodynamics and statistical
+  mechanics. The results obtained agree with results obtained experimentally.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRev.32.110
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{8242860432}
+    \field{issn}{0031899X}
+    \field{number}{1}
+    \field{pages}{110\bibrangedash 113}
+    \field{title}{{Thermal agitation of electric charge in conductors}}
+    \field{volume}{32}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Nyquist1928.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Physical Review}
+    \field{eprinttype}{arXiv}
+    \field{year}{1928}
+  \endentry
+
+  \entry{Silq}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=A}{%
+         family={Asaad},
+         familyi={A\bibinitperiod},
+      }}%
+      {{hash=T}{%
+         family={Tenberg},
+         familyi={T\bibinitperiod},
+      }}%
+      {{hash=J}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ATJ1}
+    \strng{fullhash}{ATJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{SilQ}}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Qcodes}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={Delft},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{QCoDes}}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Macklin2015}{article}{}
+    \name{author}{8}{}{%
+      {{hash=MC}{%
+         family={Macklin},
+         familyi={M\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OK}{%
+         family={O'Brien},
+         familyi={O\bibinitperiod},
+         given={K},
+         giveni={K},
+      }}%
+      {{hash=HD}{%
+         family={Hover},
+         familyi={H\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=SME}{%
+         family={Schwartz},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Bolkhovsky},
+         familyi={B\bibinitperiod},
+         given={V},
+         giveni={V},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={X},
+         giveni={X},
+      }}%
+      {{hash=OWD}{%
+         family={Oliver},
+         familyi={O\bibinitperiod},
+         given={W.\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Siddiqi},
+         familyi={S\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+    }
+    \strng{namehash}{MCOKHD+1}
+    \strng{fullhash}{MCOKHDSMEBVZXOWDSI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Detecting single–photon level signals—carriers of both classical and
+  quantum information—is particularly challenging for low-energy microwave
+  frequency excitations. Here we introduce a superconducting amplifier based on
+  a Josephson junction transmission line. Unlike current standing-wave
+  parametric amplifiers, this traveling wave architecture robustly achieves
+  high gain over a bandwidth of several gigahertz with sufficient dynamic range
+  to read out 20 superconducting qubits. To achieve this performance, we
+  introduce a subwavelength resonant phase-matching technique that enables the
+  creation of nonlinear microwave devices with unique dispersion relations. We
+  benchmark the amplifier with weak measurements, obtaining a high quantum
+  efficiency of 75{\%} (70{\%} including noise added by amplifiers following
+  the Josephson amplifier).With a flexible design based on compact lumped
+  elements, this Josephson amplifier has broad applicability to microwave
+  metrology and quantum optics.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aaa8525
+    \endverb
+    \field{isbn}{1095-9203 (Electronic) 0036-8075 (Linking)}
+    \field{issn}{0036-8075}
+    \field{number}{6258}
+    \field{pages}{307}
+    \field{title}{{A near – quantum-limited Josephson traveling-wave
+  parametric amplifier}}
+    \field{volume}{350}
+    \verb{file}
+    \verb :Q$\backslash$:/spin-QED/Steffi Stuff/References/THESIS/Macklin2015.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{year}{2015}
+  \endentry
+
   \entry{Muhonen2015}{article}{}
     \name{author}{12}{}{%
       {{hash=MJT}{%

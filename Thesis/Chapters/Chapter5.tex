@@ -1,25 +1,40 @@
-% Chapter Template
 
 \chapter{Device fabrication and experimental methods} % Main chapter title
 
 \label{Chapter5} 
 
-\HRule
-\vspace{0.5cm} \hspace{2cm}
-\small
-\hangindent=4cm
-\\
-        ``\emph{Scalability is the future}"
-\\ \\
-\hangindent=4cm
+\noindent\hrulefill
+\vspace{0.5cm} %\hspace{2cm}
+%\small
 \begin{flushright}
---? \\
+        ``\emph{They say the definition of madness is doing the same thing and expecting a different result...That's right!}"
+\\ 
+--The Hives, \textit{Try It Again} \\
 \end{flushright}
 
 \vspace{0.5cm}
 
-\noindent \HRule
+
+\noindent\hrulefill
+\vspace{0.5cm} %\hspace{2cm}
+\\
+%\small
+\hangindent=4cm
+%\noindent
+\\
+The laboratory is the birth place of great work but also of great despair\footnote{Unfortunately the countless hours spend fabricating and measuring faulty devices exceed the scope of this thesis.}.
+In this chapter we present the device design of the flip-flop qubit, the device fabrication techniques and the experimental setups developed to carry out the experiments.  
+\\ \\
+\footnotesize
+\hangindent=4cm
+\textbf{The author acknowledges the following facilities and its staff that enabled the work in this thesis: Most fabrication has taken place in the Australian National Fabrication Facility at the University of New South Wales. Donor implantation was carried out at the Australian National University by J. C. McCallum of the University of Melbourne. Experiments were performed at the low-temperature facilities at the Centre for Quantum Computation and Communication Technology at the University of New South Wales. The isotopically-purified silicon wafers were provided by K. Itoh of Keio University. }\\
+
+%\vspace{0.5cm}
+
+\noindent \hrulefill
 \clearpage
+
+\normalsize
 
 \section{Device design} \label{sec:deviceDesign}
 
@@ -154,12 +169,12 @@ The next step is the implantation of our phosphorus donors. Therefore a PMMA mas
 \paragraph*{Ohmic contacts}
 Finally Aluminium Ohmic contacts to the diffused $n+$ regions are formed and activated with a forming gas anneal (FGA) (N$_2\ 95\%$, H$_2\ 5\%$) at $400\degree$C for 15min in the clean anneal furnace and the chip is diced into 4x4 pixel pieces for individual processing. 
 
-\paragraph*{Multi-layer Aluminum nanostructures}
+\paragraph*{Multi-layer Aluminium nanostructures}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.7\textwidth]{polished/grainsize.pdf}
-	\caption[Aluminium grain size for thermal evaporation and EBPVD]{\textbf{Aluminium grain size for thermal evaporation and EBPVD. a} Aluminium structure evaporated at a rate of $2\,\Angstrom$/s in a thermal evaporator. The grains are 30-50nm large. \textbf{b} Aluminium structure evaporated at a rate of $10\,\AA$/s with EBPVD. The grains are 10-30nm large. }
+	\caption[Aluminium grain size for thermal evaporation and EBPVD]{\textbf{Aluminium grain size for thermal evaporation and EBPVD. a} Aluminium structure evaporated at a rate of $2\,\AA$/s in a thermal evaporator. The grains are 30-50nm large. \textbf{b} Aluminium structure evaporated at a rate of $10\,\AA$/s with EBPVD. The grains are 10-30nm large. }
 	\label{fig:grainsize}
 \end{figure}
 
@@ -178,12 +193,12 @@ After the last layer has been completed, the piece is cleaned one more time and 
 
 \subsection{Nano-fabrication process - resonator devices} \label{sec:fab_cpwr}
 
-As our research group had not fabricated any form of superconducting devices before, we started building up a new process which is still undergoing development. This section describes the fabrication performed for the measurements presented in this thesis and gives an outlook for new, more sophisticated resonator devices. 
+As our research group had not fabricated any form of superconducting devices before, we started building up a new process which is still undergoing development. This section describes the fabrication performed for the measurements presented in this thesis, using the simple resonator design and Niobium for the superconducting film. An outlook for the new, more sophisticated resonator devices will also be given. 
 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\textwidth]{polished/fab_cpwr.pdf}
-	\caption[SEM FF]{\textbf{a}. a }
+	\caption[Cross-section of a Nb resonator device]{\textbf{Cross-section of a Nb resonator device.} Distances are not to scale. }
 	\label{fig:fab_cpwr}
 \end{figure}
 
@@ -191,17 +206,19 @@ As our research group had not fabricated any form of superconducting devices bef
 First the wafer is cleaned in the same way as for the aluminium devices. However, once the niobium layer has been deposited, oxygen ashing oxidises the niobium to a degree that compromises the quality of the superconducting film, thus will not be performed.
 
 \paragraph*{Donor implantation}
-The next step is the implantation of our phosphorus donors. Therefore a photo mask of dimensions  $44\times24\,\mu$m is patterned with photo-lithography in each pixel (implantation window). We implant $P^+$ ions with an acceleration voltage of 11keV and a fluence of $1\cdot 10^{11}/cm^2$ which corresponds to an average donor distance of 38nm. The implantation is performed by Jeff McCallum. After the implantation is completed the resist is removed and the wafer undergoes RTA. Finally Aluminium Ohmic contacts to the diffused $n+$ regions are formed and activated with a FGA.
+The next step is the implantation of our phosphorus donors. Therefore a photo mask of dimensions  $44\times24\,\mu$m is patterned with photo-lithography in each pixel ("implantation window"). We implant $P^+$ ions with an acceleration voltage of 11keV and a fluence of $1\cdot 10^{11}/cm^2$ which corresponds to an average donor distance of 38nm. The implantation is performed by Jeff McCallum. After the implantation is completed the resist is removed and the wafer undergoes RTA. Finally Aluminium Ohmic contacts to the diffused $n+$ regions are formed and activated with a FGA.
 
 \paragraph*{Sputtering}
 First we apply a thin layer of Al$_2$O$_3$ to serve as an etch stopper. With atomic layer deposition (ALD) we run 30 cycles at $250\,\degree$C which gives 3 nm. 
-Then the wafer is sent to CSIRO at Lindfield where the 50nm of niobium are sputtered. However, the film thickness fluctuates between $30-40\,$nm which is determined with a stylus profilometre. Using a 4-point measurement we find these films to have a resistance of $15\,\Omega$ at room temperature. 
+Then the wafer is sent to CSIRO at Lindfield where 50nm of niobium are sputtered. However, the effective film thickness fluctuates between $30-40\,$nm which is determined with a stylus profilometre. Using a 4-point measurement we find these films to have a resistance of $15\,\Omega$ at room temperature. 
 
 \paragraph*{Resonator structures}
-To pattern our resonator structures we spin PMMA resist and expose it with EBL. In contrast to the aluminium style devices, we write what will be removed. Moreover, the resonators are larger than one write field. To create a smooth coplanar waveguide we employ the fixed beam moving stage (FBMS) technique that moves the stage below the beam for the entirety of the device, thus apprehending stitching issues. After patterning we develop the sample. Then we perform hollow cathode reactive ion etching (HC RIE) with a gas mixture of 20sccm CF$_4$ and 10sccm Ar at a pressure of 5Pa with 50W power to remove the Nb not protected by our PMMA mask. This process needs to be carefully calibrated so that after the etch duration the Nb is fully removed but the PMMA mask is still protecting the remaining Nb surface. For this purpose we always add test samples to the process. After etching the sample is cleaned and ready for packaging. 
+To pattern the resonator structures we spin PMMA resist and expose it with EBL. In contrast to the aluminium style devices, we write what will be removed. Moreover, the resonators are larger than one write field. To create a smooth coplanar waveguide we employ the fixed beam moving stage (FBMS) technique that moves the stage below the beam for the entirety of the device, thus apprehending stitching issues. After patterning we develop the sample. Then we perform hollow cathode reactive ion etching (HC RIE) with a gas mixture of 20sccm CF$_4$ and 10sccm Ar at a pressure of 5Pa with 50W power to remove the Nb not protected by our PMMA mask. This process needs to be carefully calibrated so that after the etch duration the Nb is fully removed but the PMMA mask is still protecting the remaining Nb surface. For this purpose we always add test samples to the process. The Al$_2$O$_3$ layer acts as an etch stopper once the Nb has been fully etched. Afterwards the sample is cleaned and ready for packaging. 
+
+Figure \ref{fig:fab_cpwr} shows a cross section of the finished device. 
 
 \paragraph*{Outlook for advanced resonator devices}
-The advanced resonator design fabrication deviates in a few important steps. Firstly, we will use NbTiNt instead of Nb, which has a higher critical field, allowing us to operate in a regime with less relaxation of the flip-flop qubit (see chapter \ref{sec:ff_relax}, \cite{Boross2016}). Secondly, the resonator will be patterned with optical lithography using the mask shown in figure \ref{fig:designCPWR_new}a. After etching, we then fabricate the qubit nanostructures like the Aluminium devices described in section \ref{sec:nanofab_al}. 
+The advanced resonator design fabrication deviates in a few important steps. Firstly, we will use NbTiN instead of Nb, which has a higher critical field, allowing us to operate in a regime with less relaxation of the flip-flop qubit (see chapter \ref{sec:ff_relax}, \cite{Boross2016}). Secondly, the resonator will be patterned with optical lithography using the mask shown in figure \ref{fig:designCPWR_new}a. After etching, we then fabricate the qubit nanostructures like the Aluminium devices described in section \ref{sec:nanofab_al}. 
 
 
 \section{Device packaging} \label{sec:packaging}
@@ -209,20 +226,19 @@ The advanced resonator design fabrication deviates in a few important steps. Fir
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{polished/PCB.pdf}
-	\caption[PCB]{\textbf{a}. a }
+	\caption[Flip-flop qubit enclosures]{\textbf{Flip-flop qubit enclosures. } Enclosure with PCB for the dipole-coupled flip-flop qubit (\textbf{a}) and the resonator qubit (\textbf{b}).}
 	\label{fig:pcb}
 \end{figure}
 
-To connect our samples to electronics we use a printed circuit board (PCB) inside a copper enclosure as shown in figure \ref{fig:pcb}. These PCBs have been carefully designed with impedance matched lines for all high frequency ports and spare ports to accommodate for design changes. The dipole PCB (Fig. \ref{fig:pcb}a) holds two pixels which makes chip handling slightly easier as the pixel size is only $1.4\times1.4\,$mm. It features two high frequency SMA
-and one SK line and 22 MMCX lines. The CPWR PCB (Fig. \ref{fig:pcb}b) holds one pixel and has two SMA and 12 MMCX lines. 
+To connect our samples to electronics we use a printed circuit board (PCB) inside a copper enclosure as shown in figure \ref{fig:pcb}. These PCBs have been carefully designed with impedance matched lines for all high frequency ports and spare ports to accommodate design changes. The dipole PCB (Fig. \ref{fig:pcb}a) holds two pixels which makes chip handling slightly easier as the pixel size is only $1.2\times1.2\,$mm. It features two SMA lines, one SK line and 22 MMCX lines. The CPWR PCB (Fig. \ref{fig:pcb}b) holds one pixel and has two SMA and 12 MMCX lines. 
 
-The device is mounted in the PCB opening with PMMA and subsequently connected to the PCB lines with an aluminium wedge wire bonder. Fast frequency lines are bonded as matched as possible by using many short bonds. The CWPR requires many additional bonds (from PCB ground to sample ground and across the different ground sections on the sample) to properly secure the ground plane is equal over the entire chip. During the bonding process all lines remain grounded to avoid electrostatic discharge (ESD) damage. 
+The device is mounted in the PCB opening with PMMA and subsequently connected to the PCB lines with an aluminium wedge wire bonder. Fast frequency lines are bonded as matched as possible by using many short bonds. The CPWR requires many additional bonds (from PCB ground to sample ground and across the different ground sections on the sample) to properly secure the ground plane over the entire chip. During the bonding process all lines remain grounded to avoid ESD damage. 
 
 \section{Experimental setup} \label{sec:setup}
 
-Our experiments are performed at low temperatures ($\sim 11\,$mK) to prevent spurious thermal excitation as much as possible. Cryogen-free dilution refrigerators (BlueFors LD400 and ??) can achieve these temperatures by  exploiting the enthalpy of mixing of $^4$He and $^3$He. The coldest part of the fridge is where the gases mix and is fittingly called the mixing chamber. There we attach our sample enclosures with our qubits on a cold finger. The fridge is outfitted with a superconducting magnet. The qubit sits in the center of this magnet and thus experiences a homogeneous magnetic field of up to 5 T.
+Our experiments are performed at low temperatures ($\sim 11\,$mK) to prevent spurious thermal excitation as much as possible. Cryogen-free dilution refrigerators (BlueFors LD400) can achieve these temperatures by  exploiting the enthalpy of mixing of $^4$He and $^3$He \cite{BlueforsManual}. The coldest part of the fridge is where the gases mix and is fittingly called the mixing chamber. There we attach the sample enclosures with our qubits to a cold finger. The fridge is outfitted with a superconducting magnet. The qubit sits in the center of this magnet and thus experiences a homogeneous magnetic field of up to 5 T.
 
-In this thesis three different types of qubits are discussed: the standard electron and nuclear qubit (see chapter \ref{Chapter1} and \ref{Chapter7}), the flip-flop qubit implemented with direct dipole-dipole coupling and resonator coupling (see chapter \ref{Chapter2, Chapter3, Chapter4, Chapter6}). These different qubits have different demands on the measurement setup which will be explained in the following sections. 
+In this thesis three different types of qubits are discussed: the standard electron qubit (see chapter \ref{Chapter1} and \ref{Chapter6}), the flip-flop qubit implemented with direct dipole-dipole coupling and resonator coupling (see chapter \ref{Chapter2} and \ref{Chapter7}). These different qubits have different demands on the measurement setup which will be explained in the following sections. 
 
 \subsection{Electron qubit} \label{sec:setup_en}
 
@@ -235,20 +251,21 @@ In this thesis three different types of qubits are discussed: the standard elect
 	\label{fig:queenie_setup}
 \end{figure}
 
-The qubit has three distinct types of connections to the room temperature world outside of the dilution refridgerator: DC, AC and high frequency ($>80\,$MHz). Each type of connections aims to allow a sufficient amount of power down to the qubit while simultaneously minimizing any thermal noise. Any electrical line emits thermal white noise, called Johnson-Nyquist noise \cite{Johnson, Nyquist} with a power spectral density of $v_n^2=4k_BTR$, where $T$ is the temperature and $R$ the resistance of said line. This noise can be reduced either by attenuation or filtering. We choose our approach according to the line type. 
-Figure \ref{fig:queenie_setup} shows the schematic of the line attenuation,  filtering and instrument control used for the electron and nuclear qubit. 
+The qubit has three distinct types of connections to the room temperature world outside of the dilution refrigerator: DC, AC and high frequency ($\gg80\,$MHz). Each type of connections aims to allow a sufficient amount of power down to the qubit while simultaneously minimizing any thermal noise. Any electrical line emits thermal white noise, called Johnson-Nyquist noise \cite{Johnson1928, Nyquist1928} with a power spectral density of $v_n^2=4k_BTR$, where $T$ is the temperature and $R$ the resistance of said line. This noise can be reduced either by attenuation or filtering. We choose our approach according to the line type. 
+Figure \ref{fig:queenie_setup} shows the schematic of the line attenuation,  filtering and instrument control used for the standard electron qubit. 
 
-The DC lines require a fixed voltage bias and consist out of the left (LB) and right (RB) SET barrier, the SET top gate (TG), and two donor gates (DS1, DS2). To minimize the Johnson-Nyquist noise as much as possible we filter these lines with a handmade filter box that acts as a low pass filter and attenuates any signal above 20 Hz. It consists out of two passive first-order RC filters in series, with thin-film nichrome resistors of $20\,k\Omega$ and $470\,$nF and $1\,$pF ceramic capacitors, resulting in cut-off frequencies of $20\,$Hz and $8\,$MHz respectively. The lines running from room temperature to the filter box are copper-nickel twisted-pair wires that are thermalized at every temperature stage. 
-The AC lines - two more donor gates (DF1, DF2), source (S), drain (D) and the plunger gate (TGAC) - require a fixed voltage bias, but also slow pulsing. Thus we use coppernickel semi-rigid (EZ86) coaxial lines and a filter box with a cut-off frequency of $80\,$MHz instead, consisting of seventh-order integrated LC filters (Mini-Circuits LFCN-80). 
-In addition to the passive filters, both filter boxes contain an anti-inductive wound coil with an Eccosorb core in series to reduce high-frequency noise.  Connections from the filter boxes to the enclose are made with MMCX cables. 
+The DC lines require a fixed voltage bias and consist out of the left (LB) and right (RB) SET barrier, the SET top gate (TG), and two donor gates (DS1, DS2). To minimize the Johnson-Nyquist noise as much as possible we filter these lines with a home-built filter box that acts as a low pass filter and attenuates any signal above 20 Hz. It consists out of two passive first-order RC filters in series, with thin-film nichrome resistors of $20\,k\Omega$ and $470\,$nF and $1\,$pF ceramic capacitors, resulting in cut-off frequencies of $20\,$Hz and $8\,$MHz respectively. The lines running from room temperature to the filter box are copper-nickel twisted-pair wires that are thermalized at every temperature stage. 
 
-The high frequency line needs to transmit pulses of up to $40\,$GHz, thus cannot be filtered. Consequently we use attenuators at different temperature stages to create a good thermal contact between the coaxial signal line of the semi-rigid stainless steel (EZ86) cable and the ground shield which in turn is thermalized to the fridge using copper anchors. These size of the attenuators depends on the required power at the sample and the cooling power at the respective temperature stage. 
-We place 10dB of attenuation at 1K and 3dB at mK, which results in a noise temperature of 2K\footnote{300K room temperature noise gets reduced by a factor 10 (10dB) at 4K, leading to 30K additional noise. 34K thermal noise at 4K gets reduced by a factor 2 (3dB) at mK, leading to thermal noise of temperature 17K at the sample}. 
-Additionally we add a DC block at mK to remove any DC noise. 
+The AC lines - two more donor gates (DF1, DF2), source (S), drain (D) and the plunger gate (TGAC) - require a fixed voltage bias, but also slow pulsing. Thus we use coppernickel semi-rigid (EZ47) coaxial lines and a filter box with a cut-off frequency of $80\,$MHz, consisting of seventh-order integrated LC filters (Mini-Circuits LFCN-80). 
+In addition to the passive filters, both filter boxes contain an anti-inductive wound coil with an ECCOSORB\textregistered core in series to reduce high-frequency noise.  Connections from the filter boxes to the enclosure are made with MMCX cables. 
+
+The high frequency line needs to transmit pulses of up to $40\,$GHz, thus cannot be filtered. Consequently we use attenuators at different temperature stages to create a good thermal contact between the coaxial signal line of the semi-rigid stainless steel (EZ86) cable and the ground shield which in turn is thermalized to the fridge using copper anchors. The size of the attenuators depends on the required power at the sample and the cooling power at the respective temperature stage. 
+We place 10dB of attenuation at 1K and 3dB at mK, which results in a noise temperature of 15.5K\footnote{300K room temperature noise gets reduced by a factor 10 (10dB) at 1K, leading to 30K additional noise. 31K thermal noise at 1K gets reduced by a factor 2 (3dB) at mK, leading to thermal noise of temperature 15.5K at the sample}. 
+Additionally we add a Aeroflex 8141A DC block at mK to remove any DC current noise. 
 
 \subsubsection{Instrument control}
-All instruments are controlled with our home-built measurement software SilQ \cite{SilQ} which is a python environment built on top of the shared quantum measurement package QCoDes \cite{QCodes}. DC voltages are applied with PXI voltage source card in the measurement computer, directly controlled with SilQ. A TTL pulse generator (SpinCore PulseBlasterESR-PRO) controlled by SilQ is used to trigger all pulses to ensure proper pulse alignment. AC voltages are also supplied by the PXI, however for TGAC, DF1 and DF2 the DC voltage is combined by a resistive combiner with a pulse from the Lecroy ArbStudio arbitrary waveform generator (AWG). ESR pulses are generated by the Agilent E8267D Vector Source. 
-The measurement signal of the device consists of the SET current, usually of magnitude of $I\sim 1\,$nA. We amplify the current using a FEMTO DLPCA-200 trans-impedance amplifier set at $10^7\,$V/A. Afterwards the voltage is further amplified by a SIM910 voltage amplifier with a gain of 10 V/V, which also acts as an opto-isolator. This prevents any large ground loop through the fridge. Finally the signal is filtered by a SIM965 analog filter module set to a low-pass fourth order Bessel filter with a cut-off frequency of 40 kHz before it is acquired with the a Keysight Sygnadyne. SilQ controls the data acquisition and transmission from the Sygnadyne temporary storage to the data hard drive.
+All instruments are controlled with our home-built measurement software SilQ \cite{Silq} which is a python environment built on top of the open-source quantum measurement package QCoDes \cite{Qcodes}. DC voltages are applied with the National instruments PXIE4322 voltage source card in the measurement computer, directly controlled with SilQ. AC voltages are also supplied by the PXIE, however for TGAC, DF1 and DF2 the DC voltage is combined by a resistive combiner with a pulse from the Signadyne M3300A Arbitrary waveform generator (AWG). ESR pulses are generated by the Agilent E8267D Vector Source. 
+The measurement signal of the device consists of the SET current, usually of magnitude of $I\sim 1\,$nA. We amplify the current using a FEMTO DLPCA-200 trans-impedance amplifier set at $10^7\,$V/A. Afterwards the voltage is further amplified by a SIM910 voltage amplifier with a gain of 10 V/V, which also acts as an opto-isolator. This prevents any large ground loop through the fridge. Finally the signal is filtered by a SIM965 analogue filter module set to a low-pass fourth order Bessel filter with a cut-off frequency of 40 kHz before it is acquired with the a Signadyne M3300A digitizer card. SilQ controls the data acquisition and transmission from the Signadyne temporary storage to the data hard drive.
 
 
 \subsection{Flip-flop qubit dipole-coupled} \label{sec:setup_dd}
@@ -260,7 +277,7 @@ The measurement signal of the device consists of the SET current, usually of mag
 	\label{fig:dd_setup}
 \end{figure}
 
-The setup for the dipole coupled flip-flop qubit (Fig. \ref{fig:dd_setup}) is very similar to the standard electron qubit setup. The qubit has 5 DC lines (RB, LB, TG,  TLC and BC), 7 AC lines (S, D, PL, RS, RR, R and RG) and the high-frequency microwave line. All these lines are wired and operated in the same fashion as for the electron qubit as is the SET readout. The distinct difference to that standard setup is that the donor gate (DG) requires both fast pulsing (GHz) as well as a DC voltage and AC pulsing. To combine these three different frequency lines we use a home-built bias-T and a diplexer XX. 
+The setup for the dipole coupled flip-flop qubit (Fig. \ref{fig:dd_setup}) is very similar to the standard electron qubit setup. The qubit has 5 DC lines (RB, LB, TG,  TLC and BC), 7 AC lines (S, D, PL, RS, RR, R and RG) and the high-frequency microwave line. All these lines are wired and operated in the same fashion as for the electron qubit as is the SET readout. The distinct difference to that standard setup is that the donor gate (DG) requires both fast pulsing (GHz) as well as a DC voltage and AC pulsing. To combine these three different frequency lines we use a home-built bias-T and a Marki Microwave DPX-1721 diplexer. 
 
 \begin{figure}
 	\centering
@@ -269,12 +286,14 @@ The setup for the dipole coupled flip-flop qubit (Fig. \ref{fig:dd_setup}) is ve
 	\label{fig:biast_diplexer}
 \end{figure}
 
-The bias-T is comprised of a 10kOhm resistor and a $2.18\,\mu$F ceramic capacitor (see inset figure \ref{fig:biast_diplexer}a) resulting in a cut-off frequency of 5Hz at room temperature which shifts to 70Hz at 1.6K, as measured in figure \ref{fig:biast_diplexer}a. We use this to combine the DC bias from the PXI modules, filtered by the 20Hz filter box, with an attenuated AC pulse from the AWG of up to 1GHz. We choose attenuators of 20dB at 4K, 10dB at 1K and 10dB at mK, giving a noise temperature of 170mK at base
+The bias-T is comprised of a 10kOhm thin-film nichrome resistor and a $2.18\,\mu$F ceramic capacitor (see inset figure \ref{fig:biast_diplexer}a) resulting in a cut-off frequency of 5Hz at room temperature which shifts to 70Hz at 1.6K, as measured in figure \ref{fig:biast_diplexer}a. We use this bias-T to combine the DC bias from the DC sources, filtered by the 20Hz filter box, with an attenuated AC pulse from the AWG of up to 1GHz. We choose attenuators of 20dB at 4K, 10dB at 1K and 10dB at mK, giving a noise temperature of 170mK at base
  \footnote{
  %300K room temperature noise gets reduced by a factor 100 (20dB) at 4K, leading to 3K additional noise. 7K thermal noise at 4K gets reduced by a factor 10 (10dB) at 1K, leading to 1.7K additional noise at mK. 1.7K thermal noise at mK gets reduced by a factor 10, leading to a noise temperature of 170mK at the sample. 
- Assuming an applied voltage of 5mV at the sample with a $50\,\Omega$ impedance we create 500nW power dissipation at sample and $5\,\mu$W at mK which can be handled by our dilution refrigerator.}.  
+ Assuming an applied voltage of 5mV at the sample with a $50\,\Omega$ impedance we create 500nW power dissipation at sample and $5\,\mu$W at mK which can be handled by our dilution refrigerator \cite{BlueforsManual}.}.  
 
 The diplexer passively combines high-frequency and low-frequency pulses by frequency-domain multiplexing with a cut-off at 18GHz, as measured in figure \ref{fig:biast_diplexer}b. We connect the low-frequency port to the output of the bias-T and the high-frequency port to a microwave source with attenuators of 20dB at 4K, 10dB at 1K and 40dB at mK, resulting in a noise temperature of 15mK at base. %\footnote{300K room temperature noise gets reduced by a factor 100 (20dB) at 4K, leading to 3K additional noise. 7K thermal noise at 4K gets reduced by a factor 10 (10dB) at 1K, leading to 0.7K additional noise at mK. 1.7K thermal noise at mK gets reduced by a factor 10 000, leading to a noise temperature of 12mK at the sample. Assuming an applied power of 1pW \cite{Tosi2017} at the sample we create 10nW power dissipation at mK.} 
+
+In this setup we are using Stanford Research Systems (SRS) SIM928 Isolated Voltage Source modules in a SIM900 mainframe, a TTL pulse generator (SpinCore PulseBlasterESR-PRO), the Lecroy ArbStudio AWG and a AlazarTech ATS9440 PCI digitizer card instead of the PXIE and Signadyne cards. 
 
 
 \subsection{Resonator qubit} \label{sec:setup_res}
@@ -286,12 +305,12 @@ The diplexer passively combines high-frequency and low-frequency pulses by frequ
 	\label{fig:resonator_setup}
 \end{figure}
 
-When coupling our flip-flop qubit to a superconducting resonator, the setup changes significantly from our traditional electron qubit setup. In the simple resonator design the four gates (TT, TB, S, D) are connected via coppernickel semi-rigid (EZ86) coaxial lines to the 80MHz filter box and then at room temperature to the Stanford Research Systems (SRS) SIM928 Isolated Voltage Source modules in a SIM900 mainframe. These lines are thermalized at every temperature stage. 
+When coupling our flip-flop qubit to a superconducting resonator, the setup changes significantly from our traditional electron qubit setup. In the simple resonator design the four gates (TT, TB, S, D) are connected via coppernickel semi-rigid (EZ47) coaxial lines to the 80MHz filter box and then at room temperature to the Stanford Research Systems (SRS) SIM928 Isolated Voltage Source modules in a SIM900 mainframe. These lines are thermalized at every temperature stage. 
 The central conductor is biased through an on-chip inductor by the SIM module with attenuation of 20dB at 4K, 10dB at 1K and 10dB at mK, same as for the AC line of the dipole-coupled flip-flop qubit donor gate. 
 
-Readout is performed through the resonator. We operate in transmission mode. The input signal is generated by the VNA and attenuated by 20dB at each temperature stage (noise temperature of 120mK .
+Readout is performed through the resonator. We operate in transmission mode. The input signal is generated by the Keysight N5231A vector network analyser (VNA) and attenuated by 20dB at each temperature stage (noise temperature of 120mK) .
 %\footnote{300K room temperature noise gets reduced by a factor 100 (20dB) at 4K, leading to 3K additional noise. 7K thermal noise at 4K gets reduced by a factor 100 (20dB) again at 1K, leading to 70mK additional noise at 1.K. 1.07K thermal noise at 1K gets reduced by a factor 100, leading to a noise temperature of 120mK at the sample.}). 
-The output signal is routed through two isolators to reduce any thermal noise coming down the line and a 4-8 GHz bandpass filter to reduce any noise before amplification. The signal then passes a cryogenic amplifier with dB gain and a room temperature amplifier with dB gain before entering the VNA. SilQ controls the SIM modules and the VNA. 
+The output signal is routed through two PAM TECH 55387 circulators (with a 50$\Omega$ termination on the unused port) to reduce any thermal noise coming down the line and a Micro-Tronics BPC50403 4-8 GHz bandpass filter to reduce any noise before amplification. The signal then passes a cryogenic low noise amplifier (LNF-LNC1-12A s/n 265B) with 38dB gain and a room temperature low noise amplifier (LNF-LNR1-15A) with 37dB gain before entering the VNA. SilQ controls the SIM modules and the VNA. 
 
 \subsubsection{Advanced resonator design}
 
@@ -304,11 +323,13 @@ The output signal is routed through two isolators to reduce any thermal noise co
 
 The setup for the advanced resonator design is more complex as we now not only have several additional gates and a microwave antenna but also are operating the resonator in reflection. It is basically a hybrid between the simple resonator design and the dipole design with some additional components for good reflective resonator operation.
 
-The microwave antenna and the AC gates (S, RT, TLT and CB) are connected as for the dipole-coupled qubit in section \ref{sec:setup_dd}, with difference that each gate has its own on-chip inductor to reduce coupling into the resonator.  
+The microwave antenna and the AC gates (S, RT, TLT and CB) are connected as for the dipole-coupled qubit in section \ref{sec:setup_dd}, with the difference that each gate has its own on-chip inductor.  
 The central conductor is biased through the on-chip inductor as for the simple resonator design. However, we prefer to use a bias-T as for the dipole design to better filter the line. 
 
 The resonator is connected on one port only where the signal is send in, reflected and then measured. 
-The signal is generated by the VNA, attenuated by 20dB on each temperature stage, passes through a circulator and reaches the resonator. Then the signal is reflected, travels up the same line, enters the circulator where it is separated from the input signal. It is then fed into a hybrid coupler where the signal is combined with a pump tone from a second microwave source of a frequency and power calibrated to the signal. This tone is required at the next stage, the Josephson travelling-wave parametric amplifier (TWPA), which amplifies the signal up to 20dB over a 3GHz bandwidth \cite{Macklin2015}. Following is the same readout setup as for the simple design. We add double-DC blocks on all high-frequency lines to reduce DC current noise. 
+The signal is generated by the VNA, attenuated by 20dB on each temperature stage, passes through a PAM TECH 55387 circulator and reaches the resonator. Then the signal is reflected, travels up the same line, enters the circulator where it is separated from the input signal. It is then fed into a Pulsar (CS10-56-436/20) directional coupler where the signal is combined with a pump tone from a second microwave source of a frequency and power calibrated to the signal. This tone is required at the next stage, the Josephson travelling-wave parametric amplifier (TWPA), which amplifies the signal up to 20dB over a 3GHz bandwidth \cite{Macklin2015}. Following is the same readout setup as for the simple design. 
+
+We add Aeroflex 8143A double-DC blocks on all high-frequency lines to reduce DC current noise. 
 
 
 

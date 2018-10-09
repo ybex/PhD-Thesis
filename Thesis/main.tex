@@ -196,10 +196,6 @@ headsepline, % Uncomment to get a line under the header
 
 \hfill Richard Feynman, 1982
 
-\noindent\enquote{\itshape Those who dance are considered insane by those who can't hear the music.}\bigbreak
-
-\hfill Friedrich Nietzsche
-
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
@@ -285,6 +281,18 @@ $\omega$ & angular frequency & \si{\radian} \\
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
 
+%----------------------------------------------------------------------------------------
+
+% Define some commands to keep the formatting separated from the content 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+
+%----------------------------------------------------------------------------------------
+
+
 \include{Chapters/Chapter1}
 \include{Chapters/Chapter2} 
 \include{Chapters/Chapter3}
@@ -293,6 +301,16 @@ $\omega$ & angular frequency & \si{\radian} \\
 \include{Chapters/Chapter7} 
 \include{Chapters/Chapter6} 
 \include{Chapters/Chapter8} 
+
+%----------------------------------------------------------------------------------------
+%	QUOTATION PAGE
+%----------------------------------------------------------------------------------------
+
+\vspace*{0.2\textheight}
+
+\noindent\enquote{\itshape Those who dance are considered insane by those who can't hear the music.}\bigbreak
+
+\hfill Friedrich Nietzsche
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
@@ -313,6 +331,15 @@ $\omega$ & angular frequency & \si{\radian} \\
 %\inputencoding{cp1252}
 \printbibliography[heading=bibintoc]
 
+
 %----------------------------------------------------------------------------------------
+%	QUOTATION PAGE
+%----------------------------------------------------------------------------------------
+
+\vspace*{0.2\textheight}
+
+\noindent\enquote{\itshape The mountains are calling and I must go.}\bigbreak
+
+\hfill John Muir
 
 \end{document}  
